@@ -1,0 +1,35 @@
+name: BIST Analiz Botu
+
+on:
+  # Hafta içi Türkiye saatiyle ~10:00 (07:00 UTC)
+  # Hafta içi Türkiye saatiyle ~18:30 (15:30 UTC)
+  schedule:
+    - cron: "0 7 * * 1-5"
+    - cron: "30 15 * * 1-5"
+
+  # Manuel çalıştırma desteği
+  workflow_dispatch:
+
+jobs:
+  run-bot:
+    name: Botu Çalıştır
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Kodu İndir
+        uses: actions/checkout@v4
+
+      - name: Python 3.11 Kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Bağımlılıkları Yükle
+        run: pip install -r requirements.txt
+
+      - name: Botu Çalıştır
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python main.py

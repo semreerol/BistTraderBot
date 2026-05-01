@@ -1,0 +1,17 @@
+[
+  {"symbol": "THYAO.IS", "name": "Türk Hava Yolları", "sector": "Ulaştırma"},
+  {"symbol": "ASELS.IS", "name": "Aselsan",           "sector": "Savunma"},
+  {"symbol": "BIMAS.IS", "name": "Bim",               "sector": "Perakende"},
+  {"symbol": "EREGL.IS", "name": "Ereğli Demir Çelik","sector": "Demir Çelik"},
+  {"symbol": "KCHOL.IS", "name": "Koç Holding",       "sector": "Holding"},
+  {"symbol": "SAHOL.IS", "name": "Sabancı Holding",   "sector": "Holding"},
+  {"symbol": "TUPRS.IS", "name": "Tüpraş",            "sector": "Enerji"},
+  {"symbol": "FROTO.IS", "name": "Ford Otosan",       "sector": "Otomotiv"},
+  {"symbol": "SISE.IS",  "name": "Şişecam",           "sector": "Cam"},
+  {"symbol": "GARAN.IS", "name": "Garanti BBVA",      "sector": "Banka"},
+  {"symbol": "AKBNK.IS", "name": "Akbank",            "sector": "Banka"},
+  {"symbol": "YKBNK.IS", "name": "Yapı Kredi",        "sector": "Banka"},
+  {"symbol": "ISCTR.IS", "name": "İş Bankası C",      "sector": "Banka"},
+  {"symbol": "PGSUS.IS", "name": "Pegasus",           "sector": "Ulaştırma"},
+  {"symbol": "TOASO.IS", "name": "Tofaş",             "sector": "Otomotiv"}
+]
