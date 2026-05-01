@@ -23,5 +23,21 @@ DEFAULT_INTERVAL: str = "1d"   # Veri frekansı
 MIN_SCORE_TO_REPORT: int = 60   # Bu skorun altındaki hisseler rapora dahil edilmez
 MAX_REPORTED_STOCKS: int = 10   # Raporda gösterilecek maksimum hisse sayısı
 
-# ── Sembol dosyası ────────────────────────────────────────────────────────────
+# ── Sembol dosyaları ──────────────────────────────────────────────────────────
 SYMBOLS_FILE: str = os.path.join(os.path.dirname(__file__), "data", "symbols.json")
+MARKET_SYMBOLS_FILE: str = os.path.join(os.path.dirname(__file__), "data", "market_symbols.json")
+SIGNALS_HISTORY_FILE: str = os.path.join(os.path.dirname(__file__), "data", "signals_history.csv")
+
+# ── Performans Takibi ve Analiz ───────────────────────────────────────────────
+PERFORMANCE_WINDOWS: list[int] = [3, 7, 14, 30]
+MIN_SIGNAL_SCORE_TO_SAVE: int = 65
+
+# ── Piyasa Rejimi ─────────────────────────────────────────────────────────────
+MARKET_REGIME_SYMBOL: str = "XU100.IS"
+MARKET_REGIME_SCORE_POSITIVE: int = 10
+MARKET_REGIME_SCORE_NEUTRAL: int = 0
+MARKET_REGIME_SCORE_NEGATIVE: int = -15
+
+# ── Relatif Güç ───────────────────────────────────────────────────────────────
+RELATIVE_STRENGTH_BENCHMARK: str = "XU100.IS"
+RELATIVE_STRENGTH_PERIOD: int = 20

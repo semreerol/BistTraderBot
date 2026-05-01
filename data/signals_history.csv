@@ -1,0 +1,9 @@
+date,symbol,name,sector,signal,score,entry_price,price_after_3d,return_after_3d,price_after_7d,return_after_7d,price_after_14d,return_after_14d,price_after_30d,return_after_30d,max_return_30d,max_drawdown_30d,status
+2026-05-01,ASELS.IS,Aselsan,Savunma,Güçlü İzle,89,420.25,,,,,,,,,,,open
+2026-05-01,BIMAS.IS,Bim,Perakende,Güçlü İzle,80,741.5,,,,,,,,,,,open
+2026-05-01,EREGL.IS,Ereğli Demir Çelik,Demir Çelik,Güçlü İzle,95,35.12,,,,,,,,,,,open
+2026-05-01,KCHOL.IS,Koç Holding,Holding,İzle,75,202.2,,,,,,,,,,,open
+2026-05-01,TUPRS.IS,Tüpraş,Enerji,İzle,69,271.0,,,,,,,,,,,open
+2026-05-01,SISE.IS,Şişecam,Cam,İzle,75,47.86,,,,,,,,,,,open
+2026-05-01,ISCTR.IS,İş Bankası C,Banka,İzle,69,14.34,,,,,,,,,,,open
+2026-05-01,TOASO.IS,Tofaş,Otomotiv,İzle,69,294.5,,,,,,,,,,,open
