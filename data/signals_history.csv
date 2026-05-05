@@ -14,3 +14,6 @@ date,symbol,name,sector,signal,score,entry_price,price_after_3d,return_after_3d,
 2026-05-05,ASELS.IS,Aselsan,Savunma,Güçlü İzle,89,431.25,,,,,,,,,,,open
 2026-05-05,BIMAS.IS,Bim,Perakende,İzle,69,735.0,,,,,,,,,,,open
 2026-05-05,EREGL.IS,Ereğli Demir Çelik,Demir Çelik,İzle,77,36.96,,,,,,,,,,,open
+2026-05-05,KCHOL.IS,Koç Holding,Holding,İzle,69,201.9,,,,,,,,,,,open
+2026-05-05,SISE.IS,Şişecam,Cam,Güçlü İzle,80,47.86,,,,,,,,,,,open
+2026-05-05,TOASO.IS,Tofaş,Otomotiv,İzle,79,298.25,,,,,,,,,,,open
