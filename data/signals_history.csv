@@ -17,3 +17,10 @@ date,symbol,name,sector,signal,score,entry_price,price_after_3d,return_after_3d,
 2026-05-05,KCHOL.IS,Koç Holding,Holding,İzle,69,201.9,,,,,,,,,,,open
 2026-05-05,SISE.IS,Şişecam,Cam,Güçlü İzle,80,47.86,,,,,,,,,,,open
 2026-05-05,TOASO.IS,Tofaş,Otomotiv,İzle,79,298.25,,,,,,,,,,,open
+2026-05-06,ASELS.IS,Aselsan,Savunma,İzle,77,442.25,,,,,,,,,,,open
+2026-05-06,BIMAS.IS,Bim,Perakende,İzle,74,780.0,,,,,,,,,,,open
+2026-05-06,EREGL.IS,Ereğli Demir Çelik,Demir Çelik,İzle,77,37.7,,,,,,,,,,,open
+2026-05-06,KCHOL.IS,Koç Holding,Holding,İzle,69,211.5,,,,,,,,,,,open
+2026-05-06,SAHOL.IS,Sabancı Holding,Holding,İzle,69,100.8,,,,,,,,,,,open
+2026-05-06,SISE.IS,Şişecam,Cam,İzle,69,50.0,,,,,,,,,,,open
+2026-05-06,TOASO.IS,Tofaş,Otomotiv,İzle,79,306.5,,,,,,,,,,,open
