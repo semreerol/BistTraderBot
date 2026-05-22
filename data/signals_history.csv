@@ -77,3 +77,6 @@ date,symbol,name,sector,signal,score,entry_price,price_after_3d,return_after_3d,
 2026-05-21,BIMAS.IS,Bim,Perakende,İzle,74,394.0,,,,,,,,,,,open
 2026-05-21,EREGL.IS,Ereğli Demir Çelik,Demir Çelik,İzle,79,38.08,,,,,,,,,,,open
 2026-05-22,EREGL.IS,Ereğli Demir Çelik,Demir Çelik,İzle,79,37.2,,,,,,,,,,,open
+2026-05-22,ASELS.IS,Aselsan,Savunma,Güçlü İzle,80,410.0,,,,,,,,,,,open
+2026-05-22,BIMAS.IS,Bim,Perakende,Güçlü İzle,80,392.75,,,,,,,,,,,open
+2026-05-22,TOASO.IS,Tofaş,Otomotiv,Güçlü İzle,80,304.0,,,,,,,,,,,open
