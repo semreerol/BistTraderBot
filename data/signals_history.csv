@@ -48,12 +48,12 @@ date,symbol,name,sector,signal,score,entry_price,price_after_3d,return_after_3d,
 2026-05-11,SISE.IS,Şişecam,Cam,Güçlü İzle,85,52.75,50.3,-4.64,46.56,-11.73,47.1,-10.71,,,,,open
 2026-05-11,TOASO.IS,Tofaş,Otomotiv,İzle,79,316.0,303.25,-4.03,297.75,-5.78,303.0,-4.11,,,,,open
 2026-05-11,SAHOL.IS,Sabancı Holding,Holding,İzle,70,99.35,96.85,-2.52,91.55,-7.85,89.6,-9.81,,,,,open
-2026-05-12,ASELS.IS,Aselsan,Savunma,İzle,79,424.75,415.75,-2.12,402.0,-5.36,,,,,,,open
-2026-05-12,BIMAS.IS,Bim,Perakende,İzle,74,795.0,403.0,-49.31,392.5,-50.63,,,,,,,open
-2026-05-12,EREGL.IS,Ereğli Demir Çelik,Demir Çelik,İzle,77,40.54,39.48,-2.61,38.54,-4.93,,,,,,,open
-2026-05-12,KCHOL.IS,Koç Holding,Holding,İzle,74,209.0,199.6,-4.5,195.0,-6.7,,,,,,,open
-2026-05-12,SISE.IS,Şişecam,Cam,İzle,79,52.3,48.04,-8.15,45.9,-12.24,,,,,,,open
-2026-05-12,TOASO.IS,Tofaş,Otomotiv,İzle,79,315.25,311.0,-1.35,293.25,-6.98,,,,,,,open
+2026-05-12,ASELS.IS,Aselsan,Savunma,İzle,79,424.75,415.75,-2.12,402.0,-5.36,380.25,-10.48,,,,,open
+2026-05-12,BIMAS.IS,Bim,Perakende,İzle,74,795.0,403.0,-49.31,392.5,-50.63,373.0,-53.08,,,,,open
+2026-05-12,EREGL.IS,Ereğli Demir Çelik,Demir Çelik,İzle,77,40.54,39.48,-2.61,38.54,-4.93,39.18,-3.35,,,,,open
+2026-05-12,KCHOL.IS,Koç Holding,Holding,İzle,74,209.0,199.6,-4.5,195.0,-6.7,189.1,-9.52,,,,,open
+2026-05-12,SISE.IS,Şişecam,Cam,İzle,79,52.3,48.04,-8.15,45.9,-12.24,45.8,-12.43,,,,,open
+2026-05-12,TOASO.IS,Tofaş,Otomotiv,İzle,79,315.25,311.0,-1.35,293.25,-6.98,296.0,-6.11,,,,,open
 2026-05-13,ASELS.IS,Aselsan,Savunma,İzle,69,415.75,410.25,-1.32,396.5,-4.63,,,,,,,open
 2026-05-13,BIMAS.IS,Bim,Perakende,Güçlü İzle,84,798.0,389.25,-51.22,393.0,-50.75,,,,,,,open
 2026-05-13,EREGL.IS,Ereğli Demir Çelik,Demir Çelik,İzle,77,39.94,38.52,-3.56,38.64,-3.25,,,,,,,open
@@ -70,8 +70,8 @@ date,symbol,name,sector,signal,score,entry_price,price_after_3d,return_after_3d,
 2026-05-15,TOASO.IS,Tofaş,Otomotiv,İzle,69,311.0,297.75,-4.26,289.75,-6.83,,,,,,,open
 2026-05-18,BIMAS.IS,Bim,Perakende,İzle,69,389.25,394.0,1.22,378.75,-2.7,,,,,,,open
 2026-05-18,EREGL.IS,Ereğli Demir Çelik,Demir Çelik,İzle,79,38.52,38.1,-1.09,40.02,3.89,,,,,,,open
-2026-05-19,BIMAS.IS,Bim,Perakende,Güçlü İzle,80,392.5,383.0,-2.42,,,,,,,,,open
-2026-05-19,EREGL.IS,Ereğli Demir Çelik,Demir Çelik,İzle,79,38.54,37.24,-3.37,,,,,,,,,open
+2026-05-19,BIMAS.IS,Bim,Perakende,Güçlü İzle,80,392.5,383.0,-2.42,373.0,-4.97,,,,,,,open
+2026-05-19,EREGL.IS,Ereğli Demir Çelik,Demir Çelik,İzle,79,38.54,37.24,-3.37,39.18,1.66,,,,,,,open
 2026-05-20,BIMAS.IS,Bim,Perakende,İzle,74,392.75,378.75,-3.56,,,,,,,,,open
 2026-05-20,EREGL.IS,Ereğli Demir Çelik,Demir Çelik,İzle,79,38.64,40.02,3.57,,,,,,,,,open
 2026-05-21,BIMAS.IS,Bim,Perakende,İzle,74,394.0,378.75,-3.87,,,,,,,,,open
@@ -82,3 +82,4 @@ date,symbol,name,sector,signal,score,entry_price,price_after_3d,return_after_3d,
 2026-05-22,TOASO.IS,Tofaş,Otomotiv,Güçlü İzle,80,304.0,303.0,-0.33,,,,,,,,,open
 2026-05-25,EREGL.IS,Ereğli Demir Çelik,Demir Çelik,İzle,79,40.02,,,,,,,,,,,open
 2026-05-25,TOASO.IS,Tofaş,Otomotiv,İzle,74,303.0,,,,,,,,,,,open
+2026-05-26,EREGL.IS,Ereğli Demir Çelik,Demir Çelik,İzle,79,39.18,,,,,,,,,,,open
