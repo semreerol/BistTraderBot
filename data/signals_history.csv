@@ -109,3 +109,5 @@ date,symbol,name,sector,signal,score,entry_price,price_after_3d,return_after_3d,
 2026-06-09,BIMAS.IS,Bim,Perakende,İzle,79,386.25,,,,,,,,,,,open
 2026-06-09,EREGL.IS,Ereğli Demir Çelik,Demir Çelik,İzle,69,38.96,,,,,,,,,,,open
 2026-06-09,SAHOL.IS,Sabancı Holding,Holding,İzle,66,93.35,,,,,,,,,,,open
+2026-06-09,GARAN.IS,Garanti BBVA,Banka,İzle,67,130.4,,,,,,,,,,,open
+2026-06-09,ISCTR.IS,İş Bankası C,Banka,İzle,67,13.83,,,,,,,,,,,open
