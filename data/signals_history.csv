@@ -41,13 +41,13 @@ date,symbol,name,sector,signal,score,entry_price,price_after_3d,return_after_3d,
 2026-05-08,SISE.IS,Şişecam,Cam,İzle,69,49.96,52.75,5.58,48.04,-3.84,43.54,-12.85,44.9,-10.13,6.9,-16.73,closed
 2026-05-08,TOASO.IS,Tofaş,Otomotiv,Güçlü İzle,84,317.75,316.25,-0.47,311.0,-2.12,289.75,-8.81,293.75,-7.55,0.63,-13.45,closed
 2026-05-08,ISCTR.IS,İş Bankası C,Banka,İzle,70,14.55,14.67,0.82,13.85,-4.81,12.89,-11.41,13.69,-5.91,1.72,-15.81,closed
-2026-05-11,ASELS.IS,Aselsan,Savunma,İzle,79,433.25,419.0,-3.29,410.25,-5.31,397.5,-8.25,,,,,open
-2026-05-11,BIMAS.IS,Bim,Perakende,İzle,74,784.0,415.5,-47.0,389.25,-50.35,378.75,-51.69,,,,,open
-2026-05-11,EREGL.IS,Ereğli Demir Çelik,Demir Çelik,İzle,77,42.24,40.38,-4.4,38.52,-8.81,40.02,-5.26,,,,,open
-2026-05-11,KCHOL.IS,Koç Holding,Holding,İzle,74,212.1,206.4,-2.69,195.5,-7.83,190.6,-10.14,,,,,open
-2026-05-11,SISE.IS,Şişecam,Cam,Güçlü İzle,85,52.75,50.3,-4.64,46.56,-11.73,47.1,-10.71,,,,,open
-2026-05-11,TOASO.IS,Tofaş,Otomotiv,İzle,79,316.0,303.25,-4.03,297.75,-5.78,303.0,-4.11,,,,,open
-2026-05-11,SAHOL.IS,Sabancı Holding,Holding,İzle,70,99.35,96.85,-2.52,91.55,-7.85,89.6,-9.81,,,,,open
+2026-05-11,ASELS.IS,Aselsan,Savunma,İzle,79,433.25,419.0,-3.29,410.25,-5.31,397.5,-8.25,364.0,-15.98,0.0,-18.06,closed
+2026-05-11,BIMAS.IS,Bim,Perakende,İzle,74,784.0,415.5,-47.0,389.25,-50.35,378.75,-51.69,381.25,-51.37,-45.79,-52.84,closed
+2026-05-11,EREGL.IS,Ereğli Demir Çelik,Demir Çelik,İzle,77,42.24,40.38,-4.4,38.52,-8.81,40.02,-5.26,38.4,-9.09,-2.41,-18.2,closed
+2026-05-11,KCHOL.IS,Koç Holding,Holding,İzle,74,212.1,206.4,-2.69,195.5,-7.83,190.6,-10.14,185.9,-12.35,-0.28,-16.08,closed
+2026-05-11,SISE.IS,Şişecam,Cam,Güçlü İzle,85,52.75,50.3,-4.64,46.56,-11.73,47.1,-10.71,44.44,-15.75,0.12,-21.14,closed
+2026-05-11,TOASO.IS,Tofaş,Otomotiv,İzle,79,316.0,303.25,-4.03,297.75,-5.78,303.0,-4.11,293.75,-7.04,0.95,-12.97,closed
+2026-05-11,SAHOL.IS,Sabancı Holding,Holding,İzle,70,99.35,96.85,-2.52,91.55,-7.85,89.6,-9.81,91.0,-8.4,-0.2,-14.34,closed
 2026-05-12,ASELS.IS,Aselsan,Savunma,İzle,79,424.75,415.75,-2.12,402.0,-5.36,380.25,-10.48,,,,,open
 2026-05-12,BIMAS.IS,Bim,Perakende,İzle,74,795.0,403.0,-49.31,392.5,-50.63,373.0,-53.08,,,,,open
 2026-05-12,EREGL.IS,Ereğli Demir Çelik,Demir Çelik,İzle,77,40.54,39.48,-2.61,38.54,-4.93,39.18,-3.35,,,,,open
@@ -83,7 +83,7 @@ date,symbol,name,sector,signal,score,entry_price,price_after_3d,return_after_3d,
 2026-05-25,EREGL.IS,Ereğli Demir Çelik,Demir Çelik,İzle,79,40.02,39.18,-2.1,39.8,-0.55,38.94,-2.7,,,,,open
 2026-05-25,TOASO.IS,Tofaş,Otomotiv,İzle,74,303.0,296.0,-2.31,303.0,0.0,293.75,-3.05,,,,,open
 2026-05-26,EREGL.IS,Ereğli Demir Çelik,Demir Çelik,İzle,79,39.18,39.18,0.0,40.54,3.47,38.96,-0.56,,,,,open
-2026-05-27,EREGL.IS,Ereğli Demir Çelik,Demir Çelik,İzle,79,39.18,39.8,1.58,40.62,3.68,,,,,,,open
+2026-05-27,EREGL.IS,Ereğli Demir Çelik,Demir Çelik,İzle,79,39.18,39.8,1.58,40.62,3.68,38.4,-1.99,,,,,open
 2026-05-28,EREGL.IS,Ereğli Demir Çelik,Demir Çelik,İzle,79,39.18,39.8,1.58,39.42,0.61,,,,,,,open
 2026-05-29,EREGL.IS,Ereğli Demir Çelik,Demir Çelik,İzle,79,39.18,39.8,1.58,39.74,1.43,,,,,,,open
 2026-06-01,EREGL.IS,Ereğli Demir Çelik,Demir Çelik,Güçlü İzle,85,39.8,39.42,-0.95,38.94,-2.16,,,,,,,open
@@ -97,12 +97,12 @@ date,symbol,name,sector,signal,score,entry_price,price_after_3d,return_after_3d,
 2026-06-02,SAHOL.IS,Sabancı Holding,Holding,İzle,72,93.3,90.75,-2.73,93.4,0.11,,,,,,,open
 2026-06-02,TUPRS.IS,Tüpraş,Enerji,İzle,67,250.25,237.1,-5.25,232.4,-7.13,,,,,,,open
 2026-06-02,ISCTR.IS,İş Bankası C,Banka,İzle,67,13.63,13.54,-0.66,14.02,2.86,,,,,,,open
-2026-06-03,THYAO.IS,Türk Hava Yolları,Ulaştırma,İzle,66,299.75,298.0,-0.58,,,,,,,,,open
-2026-06-03,BIMAS.IS,Bim,Perakende,Güçlü İzle,84,381.0,379.0,-0.52,,,,,,,,,open
-2026-06-03,EREGL.IS,Ereğli Demir Çelik,Demir Çelik,Güçlü İzle,89,40.66,38.94,-4.23,,,,,,,,,open
-2026-06-03,SISE.IS,Şişecam,Cam,İzle,79,46.98,44.9,-4.43,,,,,,,,,open
-2026-06-03,GARAN.IS,Garanti BBVA,Banka,İzle,66,128.5,128.9,0.31,,,,,,,,,open
-2026-06-03,TOASO.IS,Tofaş,Otomotiv,İzle,79,305.0,293.75,-3.69,,,,,,,,,open
+2026-06-03,THYAO.IS,Türk Hava Yolları,Ulaştırma,İzle,66,299.75,298.0,-0.58,297.75,-0.67,,,,,,,open
+2026-06-03,BIMAS.IS,Bim,Perakende,Güçlü İzle,84,381.0,379.0,-0.52,381.25,0.07,,,,,,,open
+2026-06-03,EREGL.IS,Ereğli Demir Çelik,Demir Çelik,Güçlü İzle,89,40.66,38.94,-4.23,38.4,-5.56,,,,,,,open
+2026-06-03,SISE.IS,Şişecam,Cam,İzle,79,46.98,44.9,-4.43,44.44,-5.41,,,,,,,open
+2026-06-03,GARAN.IS,Garanti BBVA,Banka,İzle,66,128.5,128.9,0.31,129.0,0.39,,,,,,,open
+2026-06-03,TOASO.IS,Tofaş,Otomotiv,İzle,79,305.0,293.75,-3.69,293.75,-3.69,,,,,,,open
 2026-06-04,EREGL.IS,Ereğli Demir Çelik,Demir Çelik,İzle,79,39.42,38.94,-1.22,,,,,,,,,open
 2026-06-05,EREGL.IS,Ereğli Demir Çelik,Demir Çelik,İzle,74,39.72,38.94,-1.96,,,,,,,,,open
 2026-06-08,EREGL.IS,Ereğli Demir Çelik,Demir Çelik,İzle,69,38.94,,,,,,,,,,,open
@@ -111,3 +111,4 @@ date,symbol,name,sector,signal,score,entry_price,price_after_3d,return_after_3d,
 2026-06-09,SAHOL.IS,Sabancı Holding,Holding,İzle,66,93.35,,,,,,,,,,,open
 2026-06-09,GARAN.IS,Garanti BBVA,Banka,İzle,67,130.4,,,,,,,,,,,open
 2026-06-09,ISCTR.IS,İş Bankası C,Banka,İzle,67,13.83,,,,,,,,,,,open
+2026-06-10,BIMAS.IS,Bim,Perakende,İzle,79,381.0,,,,,,,,,,,open
