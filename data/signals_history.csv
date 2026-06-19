@@ -192,3 +192,6 @@ date,symbol,name,sector,signal,score,entry_price,price_after_3d,return_after_3d,
 2026-06-19,ISCTR.IS,İş Bankası C,Banka,Güçlü İzle,94,15.26,,,,,,,,,,,open
 2026-06-19,PGSUS.IS,Pegasus,Ulaştırma,İzle,76,182.4,,,,,,,,,,,open
 2026-06-19,TOASO.IS,Tofaş,Otomotiv,İzle,79,327.5,,,,,,,,,,,open
+2026-06-19,ASELS.IS,Aselsan,Savunma,İzle,69,402.5,,,,,,,,,,,open
+2026-06-19,BIMAS.IS,Bim,Perakende,İzle,75,383.25,,,,,,,,,,,open
+2026-06-19,FROTO.IS,Ford Otosan,Otomotiv,İzle,71,91.1,,,,,,,,,,,open
