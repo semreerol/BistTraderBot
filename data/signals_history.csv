@@ -285,3 +285,5 @@ date,symbol,name,sector,signal,score,entry_price,price_after_3d,return_after_3d,
 2026-07-03,EREGL.IS,Ereğli Demir Çelik,Demir Çelik,İzle,74,41.26,,,,,,,,,,,open
 2026-07-03,TUPRS.IS,Tüpraş,Enerji,İzle,66,242.6,,,,,,,,,,,open
 2026-07-03,GARAN.IS,Garanti BBVA,Banka,İzle,66,136.1,,,,,,,,,,,open
+2026-07-03,AKBNK.IS,Akbank,Banka,İzle,67,73.75,,,,,,,,,,,open
+2026-07-03,YKBNK.IS,Yapı Kredi,Banka,İzle,67,38.02,,,,,,,,,,,open
