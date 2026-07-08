@@ -296,3 +296,5 @@ date,symbol,name,sector,signal,score,entry_price,price_after_3d,return_after_3d,
 2026-07-07,TUPRS.IS,Tüpraş,Enerji,Güçlü İzle,81,253.75,,,,,,,,,,,open
 2026-07-07,BIMAS.IS,Bim,Perakende,İzle,67,374.25,,,,,,,,,,,open
 2026-07-08,THYAO.IS,Türk Hava Yolları,Ulaştırma,Güçlü İzle,85,332.5,,,,,,,,,,,open
+2026-07-08,BIMAS.IS,Bim,Perakende,İzle,70,375.75,,,,,,,,,,,open
+2026-07-08,TUPRS.IS,Tüpraş,Enerji,İzle,77,256.5,,,,,,,,,,,open
