@@ -306,3 +306,4 @@ date,symbol,name,sector,signal,score,entry_price,price_after_3d,return_after_3d,
 2026-07-10,KCHOL.IS,Koç Holding,Holding,Güçlü İzle,82,192.8,190.9,-0.99,,,,,,,,,open
 2026-07-13,THYAO.IS,Türk Hava Yolları,Ulaştırma,İzle,79,336.5,,,,,,,,,,,open
 2026-07-13,TUPRS.IS,Tüpraş,Enerji,İzle,72,269.25,,,,,,,,,,,open
+2026-07-13,EREGL.IS,Ereğli Demir Çelik,Demir Çelik,İzle,75,40.86,,,,,,,,,,,open
