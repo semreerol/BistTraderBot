@@ -253,13 +253,13 @@ date,symbol,name,sector,signal,score,entry_price,price_after_3d,return_after_3d,
 2026-06-29,AKBNK.IS,Akbank,Banka,İzle,79,76.85,78.1,1.63,73.75,-4.03,67.5,-12.17,,,,,open
 2026-06-29,YKBNK.IS,Yapı Kredi,Banka,İzle,79,40.08,40.56,1.2,37.76,-5.79,34.34,-14.32,,,,,open
 2026-06-29,ISCTR.IS,İş Bankası C,Banka,İzle,79,14.66,14.87,1.43,14.32,-2.32,13.68,-6.68,,,,,open
-2026-06-30,THYAO.IS,Türk Hava Yolları,Ulaştırma,İzle,79,326.75,332.0,1.61,352.25,7.8,,,,,,,open
-2026-06-30,EREGL.IS,Ereğli Demir Çelik,Demir Çelik,İzle,74,41.92,41.24,-1.62,40.84,-2.58,,,,,,,open
-2026-06-30,SAHOL.IS,Sabancı Holding,Holding,İzle,74,97.15,96.3,-0.87,94.35,-2.88,,,,,,,open
-2026-06-30,GARAN.IS,Garanti BBVA,Banka,İzle,79,137.6,136.1,-1.09,134.3,-2.4,,,,,,,open
-2026-06-30,AKBNK.IS,Akbank,Banka,İzle,79,76.95,74.85,-2.73,74.0,-3.83,,,,,,,open
-2026-06-30,YKBNK.IS,Yapı Kredi,Banka,İzle,79,40.08,38.96,-2.79,37.76,-5.79,,,,,,,open
-2026-06-30,ISCTR.IS,İş Bankası C,Banka,İzle,79,14.77,14.46,-2.1,14.48,-1.96,,,,,,,open
+2026-06-30,THYAO.IS,Türk Hava Yolları,Ulaştırma,İzle,79,326.75,332.0,1.61,352.25,7.8,324.0,-0.84,,,,,open
+2026-06-30,EREGL.IS,Ereğli Demir Çelik,Demir Çelik,İzle,74,41.92,41.24,-1.62,40.84,-2.58,41.62,-0.72,,,,,open
+2026-06-30,SAHOL.IS,Sabancı Holding,Holding,İzle,74,97.15,96.3,-0.87,94.35,-2.88,89.25,-8.13,,,,,open
+2026-06-30,GARAN.IS,Garanti BBVA,Banka,İzle,79,137.6,136.1,-1.09,134.3,-2.4,127.7,-7.19,,,,,open
+2026-06-30,AKBNK.IS,Akbank,Banka,İzle,79,76.95,74.85,-2.73,74.0,-3.83,68.65,-10.79,,,,,open
+2026-06-30,YKBNK.IS,Yapı Kredi,Banka,İzle,79,40.08,38.96,-2.79,37.76,-5.79,34.16,-14.77,,,,,open
+2026-06-30,ISCTR.IS,İş Bankası C,Banka,İzle,79,14.77,14.46,-2.1,14.48,-1.96,13.72,-7.11,,,,,open
 2026-07-01,THYAO.IS,Türk Hava Yolları,Ulaştırma,Güçlü İzle,89,330.25,348.5,5.53,332.75,0.76,,,,,,,open
 2026-07-01,EREGL.IS,Ereğli Demir Çelik,Demir Çelik,İzle,69,40.68,41.34,1.62,39.48,-2.95,,,,,,,open
 2026-07-01,KCHOL.IS,Koç Holding,Holding,İzle,76,195.5,189.3,-3.17,184.7,-5.52,,,,,,,open
@@ -290,11 +290,11 @@ date,symbol,name,sector,signal,score,entry_price,price_after_3d,return_after_3d,
 2026-07-06,THYAO.IS,Türk Hava Yolları,Ulaştırma,Güçlü İzle,88,348.5,336.5,-3.44,336.5,-3.44,,,,,,,open
 2026-07-06,ASELS.IS,Aselsan,Savunma,Güçlü İzle,85,402.0,362.5,-9.83,355.75,-11.5,,,,,,,open
 2026-07-06,EREGL.IS,Ereğli Demir Çelik,Demir Çelik,İzle,79,41.34,39.8,-3.73,40.14,-2.9,,,,,,,open
-2026-07-07,THYAO.IS,Türk Hava Yolları,Ulaştırma,Güçlü İzle,82,352.0,342.0,-2.84,,,,,,,,,open
-2026-07-07,ASELS.IS,Aselsan,Savunma,Güçlü İzle,84,404.75,364.25,-10.01,,,,,,,,,open
-2026-07-07,EREGL.IS,Ereğli Demir Çelik,Demir Çelik,İzle,79,40.84,40.78,-0.15,,,,,,,,,open
-2026-07-07,TUPRS.IS,Tüpraş,Enerji,Güçlü İzle,81,253.75,264.75,4.33,,,,,,,,,open
-2026-07-07,BIMAS.IS,Bim,Perakende,İzle,67,374.25,370.0,-1.14,,,,,,,,,open
+2026-07-07,THYAO.IS,Türk Hava Yolları,Ulaştırma,Güçlü İzle,82,352.0,342.0,-2.84,324.0,-7.95,,,,,,,open
+2026-07-07,ASELS.IS,Aselsan,Savunma,Güçlü İzle,84,404.75,364.25,-10.01,350.75,-13.34,,,,,,,open
+2026-07-07,EREGL.IS,Ereğli Demir Çelik,Demir Çelik,İzle,79,40.84,40.78,-0.15,41.62,1.91,,,,,,,open
+2026-07-07,TUPRS.IS,Tüpraş,Enerji,Güçlü İzle,81,253.75,264.75,4.33,270.5,6.6,,,,,,,open
+2026-07-07,BIMAS.IS,Bim,Perakende,İzle,67,374.25,370.0,-1.14,382.5,2.2,,,,,,,open
 2026-07-08,THYAO.IS,Türk Hava Yolları,Ulaştırma,Güçlü İzle,85,332.5,336.5,1.2,,,,,,,,,open
 2026-07-08,BIMAS.IS,Bim,Perakende,İzle,70,375.75,373.75,-0.53,,,,,,,,,open
 2026-07-08,TUPRS.IS,Tüpraş,Enerji,İzle,77,256.5,269.25,4.97,,,,,,,,,open
@@ -307,3 +307,6 @@ date,symbol,name,sector,signal,score,entry_price,price_after_3d,return_after_3d,
 2026-07-13,THYAO.IS,Türk Hava Yolları,Ulaştırma,İzle,79,336.5,,,,,,,,,,,open
 2026-07-13,TUPRS.IS,Tüpraş,Enerji,İzle,72,269.25,,,,,,,,,,,open
 2026-07-13,EREGL.IS,Ereğli Demir Çelik,Demir Çelik,İzle,75,40.86,,,,,,,,,,,open
+2026-07-14,BIMAS.IS,Bim,Perakende,İzle,74,382.5,,,,,,,,,,,open
+2026-07-14,EREGL.IS,Ereğli Demir Çelik,Demir Çelik,İzle,74,41.62,,,,,,,,,,,open
+2026-07-14,TUPRS.IS,Tüpraş,Enerji,İzle,72,270.5,,,,,,,,,,,open
