@@ -290,11 +290,11 @@ date,symbol,name,sector,signal,score,entry_price,price_after_3d,return_after_3d,
 2026-07-06,THYAO.IS,Türk Hava Yolları,Ulaştırma,Güçlü İzle,88,348.5,336.5,-3.44,336.5,-3.44,324.5,-6.89,,,,,open
 2026-07-06,ASELS.IS,Aselsan,Savunma,Güçlü İzle,85,402.0,362.5,-9.83,355.75,-11.5,355.0,-11.69,,,,,open
 2026-07-06,EREGL.IS,Ereğli Demir Çelik,Demir Çelik,İzle,79,41.34,39.8,-3.73,40.14,-2.9,43.16,4.4,,,,,open
-2026-07-07,THYAO.IS,Türk Hava Yolları,Ulaştırma,Güçlü İzle,82,352.0,342.0,-2.84,324.0,-7.95,,,,,,,open
-2026-07-07,ASELS.IS,Aselsan,Savunma,Güçlü İzle,84,404.75,364.25,-10.01,350.75,-13.34,,,,,,,open
-2026-07-07,EREGL.IS,Ereğli Demir Çelik,Demir Çelik,İzle,79,40.84,40.78,-0.15,41.62,1.91,,,,,,,open
-2026-07-07,TUPRS.IS,Tüpraş,Enerji,Güçlü İzle,81,253.75,264.75,4.33,270.5,6.6,,,,,,,open
-2026-07-07,BIMAS.IS,Bim,Perakende,İzle,67,374.25,370.0,-1.14,382.5,2.2,,,,,,,open
+2026-07-07,THYAO.IS,Türk Hava Yolları,Ulaştırma,Güçlü İzle,82,352.0,342.0,-2.84,324.0,-7.95,327.75,-6.89,,,,,open
+2026-07-07,ASELS.IS,Aselsan,Savunma,Güçlü İzle,84,404.75,364.25,-10.01,350.75,-13.34,358.25,-11.49,,,,,open
+2026-07-07,EREGL.IS,Ereğli Demir Çelik,Demir Çelik,İzle,79,40.84,40.78,-0.15,41.62,1.91,43.84,7.35,,,,,open
+2026-07-07,TUPRS.IS,Tüpraş,Enerji,Güçlü İzle,81,253.75,264.75,4.33,270.5,6.6,308.75,21.67,,,,,open
+2026-07-07,BIMAS.IS,Bim,Perakende,İzle,67,374.25,370.0,-1.14,382.5,2.2,394.25,5.34,,,,,open
 2026-07-08,THYAO.IS,Türk Hava Yolları,Ulaştırma,Güçlü İzle,85,332.5,336.5,1.2,326.0,-1.95,,,,,,,open
 2026-07-08,BIMAS.IS,Bim,Perakende,İzle,70,375.75,373.75,-0.53,384.5,2.33,,,,,,,open
 2026-07-08,TUPRS.IS,Tüpraş,Enerji,İzle,77,256.5,269.25,4.97,270.75,5.56,,,,,,,open
@@ -307,9 +307,9 @@ date,symbol,name,sector,signal,score,entry_price,price_after_3d,return_after_3d,
 2026-07-13,THYAO.IS,Türk Hava Yolları,Ulaştırma,İzle,79,336.5,329.0,-2.23,324.5,-3.57,,,,,,,open
 2026-07-13,TUPRS.IS,Tüpraş,Enerji,İzle,72,269.25,275.0,2.14,306.25,13.74,,,,,,,open
 2026-07-13,EREGL.IS,Ereğli Demir Çelik,Demir Çelik,İzle,75,40.86,44.1,7.93,43.16,5.63,,,,,,,open
-2026-07-14,BIMAS.IS,Bim,Perakende,İzle,74,382.5,390.5,2.09,,,,,,,,,open
-2026-07-14,EREGL.IS,Ereğli Demir Çelik,Demir Çelik,İzle,74,41.62,43.02,3.36,,,,,,,,,open
-2026-07-14,TUPRS.IS,Tüpraş,Enerji,İzle,72,270.5,284.5,5.18,,,,,,,,,open
+2026-07-14,BIMAS.IS,Bim,Perakende,İzle,74,382.5,390.5,2.09,394.25,3.07,,,,,,,open
+2026-07-14,EREGL.IS,Ereğli Demir Çelik,Demir Çelik,İzle,74,41.62,43.02,3.36,43.84,5.33,,,,,,,open
+2026-07-14,TUPRS.IS,Tüpraş,Enerji,İzle,72,270.5,284.5,5.18,308.75,14.14,,,,,,,open
 2026-07-15,BIMAS.IS,Bim,Perakende,Güçlü İzle,80,384.5,392.25,2.02,,,,,,,,,open
 2026-07-15,EREGL.IS,Ereğli Demir Çelik,Demir Çelik,İzle,74,41.88,43.16,3.06,,,,,,,,,open
 2026-07-15,TUPRS.IS,Tüpraş,Enerji,İzle,78,270.75,306.25,13.11,,,,,,,,,open
