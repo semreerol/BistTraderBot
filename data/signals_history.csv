@@ -260,15 +260,15 @@ date,symbol,name,sector,signal,score,entry_price,price_after_3d,return_after_3d,
 2026-06-30,AKBNK.IS,Akbank,Banka,İzle,79,76.95,74.85,-2.73,74.0,-3.83,68.65,-10.79,63.4,-17.61,2.47,-18.39,closed
 2026-06-30,YKBNK.IS,Yapı Kredi,Banka,İzle,79,40.08,38.96,-2.79,37.76,-5.79,34.16,-14.77,32.0,-20.16,2.54,-21.11,closed
 2026-06-30,ISCTR.IS,İş Bankası C,Banka,İzle,79,14.77,14.46,-2.1,14.48,-1.96,13.72,-7.11,12.44,-15.78,2.3,-17.4,closed
-2026-07-01,THYAO.IS,Türk Hava Yolları,Ulaştırma,Güçlü İzle,89,330.25,348.5,5.53,332.75,0.76,326.0,-1.29,,,,,open
-2026-07-01,EREGL.IS,Ereğli Demir Çelik,Demir Çelik,İzle,69,40.68,41.34,1.62,39.48,-2.95,41.88,2.95,,,,,open
-2026-07-01,KCHOL.IS,Koç Holding,Holding,İzle,76,195.5,189.3,-3.17,184.7,-5.52,191.1,-2.25,,,,,open
-2026-07-01,SAHOL.IS,Sabancı Holding,Holding,Güçlü İzle,89,97.45,94.5,-3.03,89.9,-7.75,89.45,-8.21,,,,,open
-2026-07-01,GARAN.IS,Garanti BBVA,Banka,Güçlü İzle,89,137.9,134.4,-2.54,129.8,-5.87,128.9,-6.53,,,,,open
-2026-07-01,AKBNK.IS,Akbank,Banka,Güçlü İzle,89,77.0,73.75,-4.22,71.0,-7.79,69.1,-10.26,,,,,open
-2026-07-01,YKBNK.IS,Yapı Kredi,Banka,Güçlü İzle,89,40.18,37.76,-6.02,36.36,-9.51,33.96,-15.48,,,,,open
-2026-07-01,ISCTR.IS,İş Bankası C,Banka,Güçlü İzle,89,14.78,14.32,-3.11,13.89,-6.02,13.89,-6.02,,,,,open
-2026-07-01,TUPRS.IS,Tüpraş,Enerji,İzle,67,236.3,243.8,3.17,260.75,10.35,270.75,14.58,,,,,open
+2026-07-01,THYAO.IS,Türk Hava Yolları,Ulaştırma,Güçlü İzle,89,330.25,348.5,5.53,332.75,0.76,326.0,-1.29,311.25,-5.75,7.65,-7.57,closed
+2026-07-01,EREGL.IS,Ereğli Demir Çelik,Demir Çelik,İzle,69,40.68,41.34,1.62,39.48,-2.95,41.88,2.95,42.18,3.69,10.87,-4.03,closed
+2026-07-01,KCHOL.IS,Koç Holding,Holding,İzle,76,195.5,189.3,-3.17,184.7,-5.52,191.1,-2.25,193.0,-1.28,5.22,-6.85,closed
+2026-07-01,SAHOL.IS,Sabancı Holding,Holding,Güçlü İzle,89,97.45,94.5,-3.03,89.9,-7.75,89.45,-8.21,82.7,-15.14,1.69,-15.75,closed
+2026-07-01,GARAN.IS,Garanti BBVA,Banka,Güçlü İzle,89,137.9,134.4,-2.54,129.8,-5.87,128.9,-6.53,121.1,-12.18,1.96,-12.33,closed
+2026-07-01,AKBNK.IS,Akbank,Banka,Güçlü İzle,89,77.0,73.75,-4.22,71.0,-7.79,69.1,-10.26,61.8,-19.74,2.4,-20.39,closed
+2026-07-01,YKBNK.IS,Yapı Kredi,Banka,Güçlü İzle,89,40.18,37.76,-6.02,36.36,-9.51,33.96,-15.48,31.8,-20.86,2.29,-23.34,closed
+2026-07-01,ISCTR.IS,İş Bankası C,Banka,Güçlü İzle,89,14.78,14.32,-3.11,13.89,-6.02,13.89,-6.02,12.13,-17.93,2.23,-19.01,closed
+2026-07-01,TUPRS.IS,Tüpraş,Enerji,İzle,67,236.3,243.8,3.17,260.75,10.35,270.75,14.58,294.5,24.63,35.53,-0.55,closed
 2026-07-02,THYAO.IS,Türk Hava Yolları,Ulaştırma,Güçlü İzle,89,334.5,348.5,4.19,336.5,0.6,329.0,-1.64,,,,,open
 2026-07-02,ASELS.IS,Aselsan,Savunma,İzle,71,386.5,402.5,4.14,362.5,-6.21,360.75,-6.66,,,,,open
 2026-07-02,EREGL.IS,Ereğli Demir Çelik,Demir Çelik,İzle,69,40.68,41.34,1.62,39.8,-2.16,44.1,8.41,,,,,open
@@ -319,13 +319,14 @@ date,symbol,name,sector,signal,score,entry_price,price_after_3d,return_after_3d,
 2026-07-16,TUPRS.IS,Tüpraş,Enerji,İzle,72,275.0,306.25,11.36,314.25,14.27,295.25,7.36,,,,,open
 2026-07-16,THYAO.IS,Türk Hava Yolları,Ulaştırma,İzle,74,330.0,324.5,-1.67,313.5,-5.0,314.0,-4.85,,,,,open
 2026-07-16,SISE.IS,Şişecam,Cam,İzle,67,45.0,44.58,-0.93,44.22,-1.73,41.92,-6.84,,,,,open
-2026-07-17,BIMAS.IS,Bim,Perakende,İzle,65,386.0,392.25,1.62,387.5,0.39,,,,,,,open
+2026-07-17,BIMAS.IS,Bim,Perakende,İzle,65,386.0,392.25,1.62,387.5,0.39,384.25,-0.45,,,,,open
 2026-07-20,BIMAS.IS,Bim,Perakende,İzle,70,400.0,397.0,-0.75,384.25,-3.94,,,,,,,open
 2026-07-20,TUPRS.IS,Tüpraş,Enerji,İzle,68,307.5,314.25,2.2,295.75,-3.82,,,,,,,open
 2026-07-21,BIMAS.IS,Bim,Perakende,İzle,65,393.0,387.5,-1.4,391.25,-0.45,,,,,,,open
 2026-07-22,KCHOL.IS,Koç Holding,Holding,İzle,69,204.8,198.8,-2.93,196.7,-3.96,,,,,,,open
 2026-07-23,EREGL.IS,Ereğli Demir Çelik,Demir Çelik,İzle,70,44.2,43.52,-1.54,43.0,-2.71,,,,,,,open
-2026-07-24,EREGL.IS,Ereğli Demir Çelik,Demir Çelik,İzle,65,43.28,43.52,0.55,,,,,,,,,open
+2026-07-24,EREGL.IS,Ereğli Demir Çelik,Demir Çelik,İzle,65,43.28,43.52,0.55,42.18,-2.54,,,,,,,open
 2026-07-27,KCHOL.IS,Koç Holding,Holding,İzle,65,196.7,195.8,-0.46,,,,,,,,,open
 2026-07-29,BIMAS.IS,Bim,Perakende,İzle,69,388.5,,,,,,,,,,,open
 2026-07-30,BIMAS.IS,Bim,Perakende,İzle,69,391.25,,,,,,,,,,,open
+2026-07-31,BIMAS.IS,Bim,Perakende,İzle,69,384.25,,,,,,,,,,,open
