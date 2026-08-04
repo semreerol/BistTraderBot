@@ -322,7 +322,7 @@ date,symbol,name,sector,signal,score,entry_price,price_after_3d,return_after_3d,
 2026-07-17,BIMAS.IS,Bim,Perakende,İzle,65,386.0,392.25,1.62,387.5,0.39,384.25,-0.45,,,,,open
 2026-07-20,BIMAS.IS,Bim,Perakende,İzle,70,400.0,397.0,-0.75,384.25,-3.94,384.25,-3.94,,,,,open
 2026-07-20,TUPRS.IS,Tüpraş,Enerji,İzle,68,307.5,314.25,2.2,295.75,-3.82,295.0,-4.07,,,,,open
-2026-07-21,BIMAS.IS,Bim,Perakende,İzle,65,393.0,387.5,-1.4,391.25,-0.45,,,,,,,open
+2026-07-21,BIMAS.IS,Bim,Perakende,İzle,65,393.0,387.5,-1.4,391.25,-0.45,382.25,-2.74,,,,,open
 2026-07-22,KCHOL.IS,Koç Holding,Holding,İzle,69,204.8,198.8,-2.93,196.7,-3.96,,,,,,,open
 2026-07-23,EREGL.IS,Ereğli Demir Çelik,Demir Çelik,İzle,70,44.2,43.52,-1.54,43.0,-2.71,,,,,,,open
 2026-07-24,EREGL.IS,Ereğli Demir Çelik,Demir Çelik,İzle,65,43.28,43.52,0.55,42.18,-2.54,,,,,,,open
