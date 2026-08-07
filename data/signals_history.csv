@@ -295,9 +295,9 @@ date,symbol,name,sector,signal,score,entry_price,price_after_3d,return_after_3d,
 2026-07-07,EREGL.IS,Ereğli Demir Çelik,Demir Çelik,İzle,79,40.84,40.78,-0.15,41.62,1.91,43.84,7.35,41.7,2.11,10.43,-4.41,closed
 2026-07-07,TUPRS.IS,Tüpraş,Enerji,Güçlü İzle,81,253.75,264.75,4.33,270.5,6.6,308.75,21.67,316.75,24.83,26.21,0.59,closed
 2026-07-07,BIMAS.IS,Bim,Perakende,İzle,67,374.25,370.0,-1.14,382.5,2.2,394.25,5.34,380.25,1.6,9.08,-3.07,closed
-2026-07-08,THYAO.IS,Türk Hava Yolları,Ulaştırma,Güçlü İzle,85,332.5,336.5,1.2,326.0,-1.95,317.25,-4.59,,,,,open
-2026-07-08,BIMAS.IS,Bim,Perakende,İzle,70,375.75,373.75,-0.53,384.5,2.33,395.75,5.32,,,,,open
-2026-07-08,TUPRS.IS,Tüpraş,Enerji,İzle,77,256.5,269.25,4.97,270.75,5.56,311.75,21.54,,,,,open
+2026-07-08,THYAO.IS,Türk Hava Yolları,Ulaştırma,Güçlü İzle,85,332.5,336.5,1.2,326.0,-1.95,317.25,-4.59,308.25,-7.29,3.91,-8.2,closed
+2026-07-08,BIMAS.IS,Bim,Perakende,İzle,70,375.75,373.75,-0.53,384.5,2.33,395.75,5.32,388.75,3.46,8.65,-3.46,closed
+2026-07-08,TUPRS.IS,Tüpraş,Enerji,İzle,77,256.5,269.25,4.97,270.75,5.56,311.75,21.54,328.25,27.97,29.43,0.39,closed
 2026-07-09,THYAO.IS,Türk Hava Yolları,Ulaştırma,Güçlü İzle,84,336.5,336.5,0.0,329.0,-2.23,313.5,-6.84,,,,,open
 2026-07-09,TUPRS.IS,Tüpraş,Enerji,İzle,66,261.25,269.25,3.06,275.0,5.26,314.25,20.29,,,,,open
 2026-07-10,THYAO.IS,Türk Hava Yolları,Ulaştırma,İzle,79,341.5,336.5,-1.46,330.5,-3.22,314.5,-7.91,,,,,open
@@ -325,14 +325,17 @@ date,symbol,name,sector,signal,score,entry_price,price_after_3d,return_after_3d,
 2026-07-21,BIMAS.IS,Bim,Perakende,İzle,65,393.0,387.5,-1.4,391.25,-0.45,382.25,-2.74,,,,,open
 2026-07-22,KCHOL.IS,Koç Holding,Holding,İzle,69,204.8,198.8,-2.93,196.7,-3.96,204.3,-0.24,,,,,open
 2026-07-23,EREGL.IS,Ereğli Demir Çelik,Demir Çelik,İzle,70,44.2,43.52,-1.54,43.0,-2.71,41.7,-5.66,,,,,open
-2026-07-24,EREGL.IS,Ereğli Demir Çelik,Demir Çelik,İzle,65,43.28,43.52,0.55,42.18,-2.54,,,,,,,open
+2026-07-24,EREGL.IS,Ereğli Demir Çelik,Demir Çelik,İzle,65,43.28,43.52,0.55,42.18,-2.54,39.18,-9.47,,,,,open
 2026-07-27,KCHOL.IS,Koç Holding,Holding,İzle,65,196.7,195.8,-0.46,195.7,-0.51,,,,,,,open
 2026-07-29,BIMAS.IS,Bim,Perakende,İzle,69,388.5,384.25,-1.09,384.5,-1.03,,,,,,,open
 2026-07-30,BIMAS.IS,Bim,Perakende,İzle,69,391.25,384.25,-1.79,380.25,-2.81,,,,,,,open
-2026-07-31,BIMAS.IS,Bim,Perakende,İzle,69,384.25,384.25,0.0,,,,,,,,,open
+2026-07-31,BIMAS.IS,Bim,Perakende,İzle,69,384.25,384.25,0.0,388.75,1.17,,,,,,,open
 2026-08-03,KCHOL.IS,Koç Holding,Holding,İzle,75,196.7,200.7,2.03,,,,,,,,,open
-2026-08-04,KCHOL.IS,Koç Holding,Holding,İzle,75,198.9,,,,,,,,,,,open
-2026-08-04,TUPRS.IS,Tüpraş,Enerji,İzle,70,290.25,,,,,,,,,,,open
+2026-08-04,KCHOL.IS,Koç Holding,Holding,İzle,75,198.9,197.5,-0.7,,,,,,,,,open
+2026-08-04,TUPRS.IS,Tüpraş,Enerji,İzle,70,290.25,328.25,13.09,,,,,,,,,open
 2026-08-05,KCHOL.IS,Koç Holding,Holding,İzle,69,204.3,,,,,,,,,,,open
 2026-08-05,TUPRS.IS,Tüpraş,Enerji,İzle,70,305.25,,,,,,,,,,,open
 2026-08-06,KCHOL.IS,Koç Holding,Holding,İzle,69,200.7,,,,,,,,,,,open
+2026-08-07,BIMAS.IS,Bim,Perakende,İzle,79,388.75,,,,,,,,,,,open
+2026-08-07,KCHOL.IS,Koç Holding,Holding,İzle,74,197.6,,,,,,,,,,,open
+2026-08-07,TUPRS.IS,Tüpraş,Enerji,İzle,67,328.25,,,,,,,,,,,open
