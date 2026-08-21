@@ -394,3 +394,5 @@ date,symbol,name,sector,signal,score,entry_price,price_after_3d,return_after_3d,
 2026-08-21,GARAN.IS,Garanti BBVA,Banka,İzle,76,129.5,,,,,,,,,,,open
 2026-08-21,AKBNK.IS,Akbank,Banka,İzle,76,69.7,,,,,,,,,,,open
 2026-08-21,YKBNK.IS,Yapı Kredi,Banka,İzle,71,34.9,,,,,,,,,,,open
+2026-08-21,FROTO.IS,Ford Otosan,Otomotiv,İzle,66,80.2,,,,,,,,,,,open
+2026-08-21,TOASO.IS,Tofaş,Otomotiv,İzle,67,281.25,,,,,,,,,,,open
