@@ -469,3 +469,8 @@ date,symbol,name,sector,signal,score,entry_price,price_after_3d,return_after_3d,
 2026-09-01,ISCTR.IS,İş Bankası C,Banka,İzle,66,12.77,,,,,,,,,,,open
 2026-09-02,BIMAS.IS,Bim,Perakende,İzle,74,403.25,,,,,,,,,,,open
 2026-09-02,TUPRS.IS,Tüpraş,Enerji,İzle,79,396.25,,,,,,,,,,,open
+2026-09-02,KCHOL.IS,Koç Holding,Holding,Güçlü İzle,80,213.0,,,,,,,,,,,open
+2026-09-02,SAHOL.IS,Sabancı Holding,Holding,Güçlü İzle,80,92.5,,,,,,,,,,,open
+2026-09-02,AKBNK.IS,Akbank,Banka,İzle,75,71.5,,,,,,,,,,,open
+2026-09-02,YKBNK.IS,Yapı Kredi,Banka,Güçlü İzle,80,36.08,,,,,,,,,,,open
+2026-09-02,ISCTR.IS,İş Bankası C,Banka,İzle,72,12.78,,,,,,,,,,,open
