@@ -490,3 +490,5 @@ date,symbol,name,sector,signal,score,entry_price,price_after_3d,return_after_3d,
 2026-09-04,AKBNK.IS,Akbank,Banka,İzle,74,72.3,,,,,,,,,,,open
 2026-09-04,YKBNK.IS,Yapı Kredi,Banka,İzle,69,35.94,,,,,,,,,,,open
 2026-09-04,ISCTR.IS,İş Bankası C,Banka,İzle,66,13.04,,,,,,,,,,,open
+2026-09-04,ASELS.IS,Aselsan,Savunma,İzle,74,388.25,,,,,,,,,,,open
+2026-09-04,TOASO.IS,Tofaş,Otomotiv,İzle,67,274.25,,,,,,,,,,,open
