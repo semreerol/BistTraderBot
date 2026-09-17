@@ -583,3 +583,6 @@ date,symbol,name,sector,signal,score,entry_price,price_after_3d,return_after_3d,
 2026-09-16,TUPRS.IS,Tüpraş,Enerji,İzle,70,401.75,,,,,,,,,,,open
 2026-09-17,KCHOL.IS,Koç Holding,Holding,İzle,65,216.5,,,,,,,,,,,open
 2026-09-17,GARAN.IS,Garanti BBVA,Banka,İzle,65,131.9,,,,,,,,,,,open
+2026-09-17,BIMAS.IS,Bim,Perakende,İzle,70,418.0,,,,,,,,,,,open
+2026-09-17,AKBNK.IS,Akbank,Banka,İzle,70,71.55,,,,,,,,,,,open
+2026-09-17,ISCTR.IS,İş Bankası C,Banka,İzle,67,13.37,,,,,,,,,,,open
