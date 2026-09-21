@@ -589,3 +589,8 @@ date,symbol,name,sector,signal,score,entry_price,price_after_3d,return_after_3d,
 2026-09-18,BIMAS.IS,Bim,Perakende,İzle,69,417.25,430.25,3.12,,,,,,,,,open
 2026-09-18,YKBNK.IS,Yapı Kredi,Banka,İzle,70,36.24,36.28,0.11,,,,,,,,,open
 2026-09-21,BIMAS.IS,Bim,Perakende,İzle,75,430.0,,,,,,,,,,,open
+2026-09-21,KCHOL.IS,Koç Holding,Holding,İzle,65,222.3,,,,,,,,,,,open
+2026-09-21,TUPRS.IS,Tüpraş,Enerji,İzle,70,414.75,,,,,,,,,,,open
+2026-09-21,GARAN.IS,Garanti BBVA,Banka,İzle,65,133.1,,,,,,,,,,,open
+2026-09-21,YKBNK.IS,Yapı Kredi,Banka,İzle,65,36.58,,,,,,,,,,,open
+2026-09-21,ISCTR.IS,İş Bankası C,Banka,İzle,70,13.56,,,,,,,,,,,open
