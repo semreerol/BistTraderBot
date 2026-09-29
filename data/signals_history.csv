@@ -574,12 +574,12 @@ date,symbol,name,sector,signal,score,entry_price,price_after_3d,return_after_3d,
 2026-09-14,ISCTR.IS,İş Bankası C,Banka,Güçlü İzle,84,13.89,13.28,-4.39,13.38,-3.67,12.95,-6.77,,,,,open
 2026-09-14,PGSUS.IS,Pegasus,Ulaştırma,Güçlü İzle,82,157.5,150.0,-4.76,150.1,-4.7,143.6,-8.83,,,,,open
 2026-09-14,TOASO.IS,Tofaş,Otomotiv,İzle,76,290.0,285.25,-1.64,283.75,-2.16,280.0,-3.45,,,,,open
-2026-09-15,BIMAS.IS,Bim,Perakende,Güçlü İzle,84,417.0,417.25,0.06,430.5,3.24,,,,,,,open
-2026-09-15,KCHOL.IS,Koç Holding,Holding,İzle,79,219.3,215.3,-1.82,221.6,1.05,,,,,,,open
-2026-09-15,TUPRS.IS,Tüpraş,Enerji,İzle,79,403.5,414.75,2.79,393.25,-2.54,,,,,,,open
-2026-09-15,SISE.IS,Şişecam,Cam,İzle,71,42.82,39.58,-7.57,40.74,-4.86,,,,,,,open
-2026-09-15,ISCTR.IS,İş Bankası C,Banka,İzle,79,13.58,13.22,-2.65,13.67,0.66,,,,,,,open
-2026-09-15,TOASO.IS,Tofaş,Otomotiv,İzle,66,285.75,279.75,-2.1,288.75,1.05,,,,,,,open
+2026-09-15,BIMAS.IS,Bim,Perakende,Güçlü İzle,84,417.0,417.25,0.06,430.5,3.24,419.5,0.6,,,,,open
+2026-09-15,KCHOL.IS,Koç Holding,Holding,İzle,79,219.3,215.3,-1.82,221.6,1.05,213.3,-2.74,,,,,open
+2026-09-15,TUPRS.IS,Tüpraş,Enerji,İzle,79,403.5,414.75,2.79,393.25,-2.54,385.25,-4.52,,,,,open
+2026-09-15,SISE.IS,Şişecam,Cam,İzle,71,42.82,39.58,-7.57,40.74,-4.86,38.32,-10.51,,,,,open
+2026-09-15,ISCTR.IS,İş Bankası C,Banka,İzle,79,13.58,13.22,-2.65,13.67,0.66,12.96,-4.57,,,,,open
+2026-09-15,TOASO.IS,Tofaş,Otomotiv,İzle,66,285.75,279.75,-2.1,288.75,1.05,276.0,-3.41,,,,,open
 2026-09-16,TUPRS.IS,Tüpraş,Enerji,İzle,70,401.75,423.25,5.35,411.75,2.49,,,,,,,open
 2026-09-17,KCHOL.IS,Koç Holding,Holding,İzle,65,216.5,220.5,1.85,218.3,0.83,,,,,,,open
 2026-09-17,GARAN.IS,Garanti BBVA,Banka,İzle,65,131.9,131.1,-0.61,129.5,-1.82,,,,,,,open
@@ -594,7 +594,7 @@ date,symbol,name,sector,signal,score,entry_price,price_after_3d,return_after_3d,
 2026-09-21,GARAN.IS,Garanti BBVA,Banka,İzle,65,133.1,129.5,-2.7,129.1,-3.01,,,,,,,open
 2026-09-21,YKBNK.IS,Yapı Kredi,Banka,İzle,65,36.58,35.82,-2.08,35.56,-2.79,,,,,,,open
 2026-09-21,ISCTR.IS,İş Bankası C,Banka,İzle,70,13.56,13.19,-2.73,12.95,-4.5,,,,,,,open
-2026-09-22,BIMAS.IS,Bim,Perakende,İzle,69,430.5,429.5,-0.23,,,,,,,,,open
+2026-09-22,BIMAS.IS,Bim,Perakende,İzle,69,430.5,429.5,-0.23,419.5,-2.56,,,,,,,open
 2026-09-23,BIMAS.IS,Bim,Perakende,İzle,69,433.0,426.25,-1.56,,,,,,,,,open
 2026-09-24,BIMAS.IS,Bim,Perakende,İzle,69,423.75,426.25,0.59,,,,,,,,,open
 2026-09-25,BIMAS.IS,Bim,Perakende,İzle,69,429.75,426.25,-0.81,,,,,,,,,open
