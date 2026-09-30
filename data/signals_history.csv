@@ -450,14 +450,14 @@ date,symbol,name,sector,signal,score,entry_price,price_after_3d,return_after_3d,
 2026-08-29,AKBNK.IS,Akbank,Banka,İzle,76,72.85,72.5,-0.48,72.55,-0.41,72.95,0.14,70.25,-3.57,4.74,-13.8,closed
 2026-08-29,YKBNK.IS,Yapı Kredi,Banka,Güçlü İzle,82,36.86,36.56,-0.81,36.2,-1.79,36.74,-0.33,35.56,-3.53,2.77,-15.3,closed
 2026-08-29,ISCTR.IS,İş Bankası C,Banka,İzle,72,12.75,12.77,0.16,12.99,1.88,13.89,8.94,12.95,1.57,15.69,-5.65,closed
-2026-08-31,ASELS.IS,Aselsan,Savunma,Güçlü İzle,84,388.25,377.75,-2.7,393.75,1.42,376.75,-2.96,,,,,open
-2026-08-31,BIMAS.IS,Bim,Perakende,İzle,74,404.0,408.0,0.99,415.5,2.85,430.75,6.62,,,,,open
-2026-08-31,KCHOL.IS,Koç Holding,Holding,Güçlü İzle,84,214.8,215.1,0.14,218.7,1.82,226.0,5.21,,,,,open
-2026-08-31,SAHOL.IS,Sabancı Holding,Holding,Güçlü İzle,90,93.3,92.95,-0.38,93.55,0.27,95.4,2.25,,,,,open
-2026-08-31,TUPRS.IS,Tüpraş,Enerji,İzle,77,402.5,394.75,-1.93,395.5,-1.74,417.75,3.79,,,,,open
-2026-08-31,GARAN.IS,Garanti BBVA,Banka,İzle,74,130.8,132.9,1.61,132.2,1.07,134.3,2.68,,,,,open
-2026-08-31,AKBNK.IS,Akbank,Banka,İzle,79,71.75,72.25,0.7,72.55,1.11,72.95,1.67,,,,,open
-2026-08-31,YKBNK.IS,Yapı Kredi,Banka,İzle,79,36.5,36.14,-0.99,36.2,-0.82,36.74,0.66,,,,,open
+2026-08-31,ASELS.IS,Aselsan,Savunma,Güçlü İzle,84,388.25,377.75,-2.7,393.75,1.42,376.75,-2.96,339.75,-12.49,4.83,-13.91,closed
+2026-08-31,BIMAS.IS,Bim,Perakende,İzle,74,404.0,408.0,0.99,415.5,2.85,430.75,6.62,421.0,4.21,9.72,-3.47,closed
+2026-08-31,KCHOL.IS,Koç Holding,Holding,Güçlü İzle,84,214.8,215.1,0.14,218.7,1.82,226.0,5.21,209.5,-2.47,8.24,-6.66,closed
+2026-08-31,SAHOL.IS,Sabancı Holding,Holding,Güçlü İzle,90,93.3,92.95,-0.38,93.55,0.27,95.4,2.25,85.25,-8.63,5.47,-11.79,closed
+2026-08-31,TUPRS.IS,Tüpraş,Enerji,İzle,77,402.5,394.75,-1.93,395.5,-1.74,417.75,3.79,376.5,-6.46,3.55,-7.27,closed
+2026-08-31,GARAN.IS,Garanti BBVA,Banka,İzle,74,130.8,132.9,1.61,132.2,1.07,134.3,2.68,124.0,-5.2,5.35,-9.94,closed
+2026-08-31,AKBNK.IS,Akbank,Banka,İzle,79,71.75,72.25,0.7,72.55,1.11,72.95,1.67,66.8,-6.9,6.34,-12.47,closed
+2026-08-31,YKBNK.IS,Yapı Kredi,Banka,İzle,79,36.5,36.14,-0.99,36.2,-0.82,36.74,0.66,34.08,-6.63,3.78,-14.47,closed
 2026-09-01,ASELS.IS,Aselsan,Savunma,Güçlü İzle,84,388.75,381.5,-1.86,388.5,-0.06,377.0,-3.02,,,,,open
 2026-09-01,BIMAS.IS,Bim,Perakende,Güçlü İzle,84,407.25,413.25,1.47,416.25,2.21,417.25,2.46,,,,,open
 2026-09-01,KCHOL.IS,Koç Holding,Holding,Güçlü İzle,90,216.6,214.1,-1.15,218.7,0.97,219.3,1.25,,,,,open
@@ -580,7 +580,7 @@ date,symbol,name,sector,signal,score,entry_price,price_after_3d,return_after_3d,
 2026-09-15,SISE.IS,Şişecam,Cam,İzle,71,42.82,39.58,-7.57,40.74,-4.86,38.32,-10.51,,,,,open
 2026-09-15,ISCTR.IS,İş Bankası C,Banka,İzle,79,13.58,13.22,-2.65,13.67,0.66,12.96,-4.57,,,,,open
 2026-09-15,TOASO.IS,Tofaş,Otomotiv,İzle,66,285.75,279.75,-2.1,288.75,1.05,276.0,-3.41,,,,,open
-2026-09-16,TUPRS.IS,Tüpraş,Enerji,İzle,70,401.75,423.25,5.35,411.75,2.49,,,,,,,open
+2026-09-16,TUPRS.IS,Tüpraş,Enerji,İzle,70,401.75,423.25,5.35,411.75,2.49,376.5,-6.29,,,,,open
 2026-09-17,KCHOL.IS,Koç Holding,Holding,İzle,65,216.5,220.5,1.85,218.3,0.83,,,,,,,open
 2026-09-17,GARAN.IS,Garanti BBVA,Banka,İzle,65,131.9,131.1,-0.61,129.5,-1.82,,,,,,,open
 2026-09-17,BIMAS.IS,Bim,Perakende,İzle,70,418.0,430.25,2.93,423.5,1.32,,,,,,,open
@@ -595,8 +595,9 @@ date,symbol,name,sector,signal,score,entry_price,price_after_3d,return_after_3d,
 2026-09-21,YKBNK.IS,Yapı Kredi,Banka,İzle,65,36.58,35.82,-2.08,35.56,-2.79,,,,,,,open
 2026-09-21,ISCTR.IS,İş Bankası C,Banka,İzle,70,13.56,13.19,-2.73,12.95,-4.5,,,,,,,open
 2026-09-22,BIMAS.IS,Bim,Perakende,İzle,69,430.5,429.5,-0.23,419.5,-2.56,,,,,,,open
-2026-09-23,BIMAS.IS,Bim,Perakende,İzle,69,433.0,426.25,-1.56,,,,,,,,,open
+2026-09-23,BIMAS.IS,Bim,Perakende,İzle,69,433.0,426.25,-1.56,421.0,-2.77,,,,,,,open
 2026-09-24,BIMAS.IS,Bim,Perakende,İzle,69,423.75,426.25,0.59,,,,,,,,,open
 2026-09-25,BIMAS.IS,Bim,Perakende,İzle,69,429.75,426.25,-0.81,,,,,,,,,open
 2026-09-28,BIMAS.IS,Bim,Perakende,İzle,69,426.25,,,,,,,,,,,open
 2026-09-29,BIMAS.IS,Bim,Perakende,İzle,69,421.75,,,,,,,,,,,open
+2026-09-30,BIMAS.IS,Bim,Perakende,İzle,69,421.0,,,,,,,,,,,open
