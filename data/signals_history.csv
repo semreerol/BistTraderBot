@@ -467,13 +467,13 @@ date,symbol,name,sector,signal,score,entry_price,price_after_3d,return_after_3d,
 2026-09-01,AKBNK.IS,Akbank,Banka,Güçlü İzle,84,72.55,72.3,-0.34,72.4,-0.21,70.85,-2.34,68.2,-6.0,5.17,-13.44,closed
 2026-09-01,YKBNK.IS,Yapı Kredi,Banka,Güçlü İzle,84,36.58,35.94,-1.75,36.08,-1.37,35.58,-2.73,35.0,-4.32,3.55,-14.65,closed
 2026-09-01,ISCTR.IS,İş Bankası C,Banka,İzle,66,12.77,13.03,2.04,13.34,4.46,13.55,6.11,12.62,-1.17,15.51,-5.79,closed
-2026-09-02,BIMAS.IS,Bim,Perakende,İzle,74,403.25,415.5,3.04,427.75,6.08,410.75,1.86,,,,,open
-2026-09-02,TUPRS.IS,Tüpraş,Enerji,İzle,79,396.25,395.5,-0.19,415.75,4.92,402.75,1.64,,,,,open
-2026-09-02,KCHOL.IS,Koç Holding,Holding,Güçlü İzle,80,213.0,218.7,2.68,227.6,6.85,207.4,-2.63,,,,,open
-2026-09-02,SAHOL.IS,Sabancı Holding,Holding,Güçlü İzle,80,92.5,93.55,1.14,97.9,5.84,86.0,-7.03,,,,,open
-2026-09-02,AKBNK.IS,Akbank,Banka,İzle,75,71.5,72.55,1.47,76.0,6.29,65.4,-8.53,,,,,open
-2026-09-02,YKBNK.IS,Yapı Kredi,Banka,Güçlü İzle,80,36.08,36.2,0.33,37.82,4.82,32.36,-10.31,,,,,open
-2026-09-02,ISCTR.IS,İş Bankası C,Banka,İzle,72,12.78,12.99,1.64,14.66,14.71,12.31,-3.68,,,,,open
+2026-09-02,BIMAS.IS,Bim,Perakende,İzle,74,403.25,415.5,3.04,427.75,6.08,410.75,1.86,414.75,2.85,9.92,-3.29,closed
+2026-09-02,TUPRS.IS,Tüpraş,Enerji,İzle,79,396.25,395.5,-0.19,415.75,4.92,402.75,1.64,386.25,-2.52,5.18,-7.51,closed
+2026-09-02,KCHOL.IS,Koç Holding,Holding,Güçlü İzle,80,213.0,218.7,2.68,227.6,6.85,207.4,-2.63,209.8,-1.5,9.15,-5.87,closed
+2026-09-02,SAHOL.IS,Sabancı Holding,Holding,Güçlü İzle,80,92.5,93.55,1.14,97.9,5.84,86.0,-7.03,86.75,-6.22,6.38,-11.03,closed
+2026-09-02,AKBNK.IS,Akbank,Banka,İzle,75,71.5,72.55,1.47,76.0,6.29,65.4,-8.53,67.4,-5.73,6.71,-12.17,closed
+2026-09-02,YKBNK.IS,Yapı Kredi,Banka,Güçlü İzle,80,36.08,36.2,0.33,37.82,4.82,32.36,-10.31,35.04,-2.88,4.99,-13.47,closed
+2026-09-02,ISCTR.IS,İş Bankası C,Banka,İzle,72,12.78,12.99,1.64,14.66,14.71,12.31,-3.68,12.46,-2.5,15.41,-5.87,closed
 2026-09-03,BIMAS.IS,Bim,Perakende,İzle,79,408.25,415.5,1.78,423.5,3.74,422.5,3.49,,,,,open
 2026-09-03,KCHOL.IS,Koç Holding,Holding,İzle,79,215.0,218.7,1.72,222.7,3.58,216.5,0.7,,,,,open
 2026-09-03,SAHOL.IS,Sabancı Holding,Holding,İzle,74,92.95,93.55,0.65,95.1,2.31,89.75,-3.44,,,,,open
@@ -586,8 +586,8 @@ date,symbol,name,sector,signal,score,entry_price,price_after_3d,return_after_3d,
 2026-09-17,BIMAS.IS,Bim,Perakende,İzle,70,418.0,430.25,2.93,423.5,1.32,411.25,-1.61,,,,,open
 2026-09-17,AKBNK.IS,Akbank,Banka,İzle,70,71.55,71.65,0.14,71.1,-0.63,68.2,-4.68,,,,,open
 2026-09-17,ISCTR.IS,İş Bankası C,Banka,İzle,67,13.37,13.38,0.07,13.19,-1.35,12.62,-5.61,,,,,open
-2026-09-18,BIMAS.IS,Bim,Perakende,İzle,69,417.25,430.25,3.12,429.5,2.94,,,,,,,open
-2026-09-18,YKBNK.IS,Yapı Kredi,Banka,İzle,70,36.24,36.28,0.11,35.86,-1.05,,,,,,,open
+2026-09-18,BIMAS.IS,Bim,Perakende,İzle,69,417.25,430.25,3.12,429.5,2.94,414.75,-0.6,,,,,open
+2026-09-18,YKBNK.IS,Yapı Kredi,Banka,İzle,70,36.24,36.28,0.11,35.86,-1.05,35.04,-3.31,,,,,open
 2026-09-21,BIMAS.IS,Bim,Perakende,İzle,75,430.0,423.5,-1.51,426.25,-0.87,,,,,,,open
 2026-09-21,KCHOL.IS,Koç Holding,Holding,İzle,65,222.3,218.3,-1.8,213.8,-3.82,,,,,,,open
 2026-09-21,TUPRS.IS,Tüpraş,Enerji,İzle,70,414.75,409.0,-1.39,397.25,-4.22,,,,,,,open
@@ -597,7 +597,7 @@ date,symbol,name,sector,signal,score,entry_price,price_after_3d,return_after_3d,
 2026-09-22,BIMAS.IS,Bim,Perakende,İzle,69,430.5,429.5,-0.23,419.5,-2.56,,,,,,,open
 2026-09-23,BIMAS.IS,Bim,Perakende,İzle,69,433.0,426.25,-1.56,421.0,-2.77,,,,,,,open
 2026-09-24,BIMAS.IS,Bim,Perakende,İzle,69,423.75,426.25,0.59,411.25,-2.95,,,,,,,open
-2026-09-25,BIMAS.IS,Bim,Perakende,İzle,69,429.75,426.25,-0.81,,,,,,,,,open
+2026-09-25,BIMAS.IS,Bim,Perakende,İzle,69,429.75,426.25,-0.81,414.75,-3.49,,,,,,,open
 2026-09-28,BIMAS.IS,Bim,Perakende,İzle,69,426.25,411.25,-3.52,,,,,,,,,open
-2026-09-29,BIMAS.IS,Bim,Perakende,İzle,69,421.75,,,,,,,,,,,open
+2026-09-29,BIMAS.IS,Bim,Perakende,İzle,69,421.75,414.75,-1.66,,,,,,,,,open
 2026-09-30,BIMAS.IS,Bim,Perakende,İzle,69,421.0,,,,,,,,,,,open
