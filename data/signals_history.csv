@@ -594,10 +594,10 @@ date,symbol,name,sector,signal,score,entry_price,price_after_3d,return_after_3d,
 2026-09-21,GARAN.IS,Garanti BBVA,Banka,İzle,65,133.1,129.5,-2.7,129.1,-3.01,130.4,-2.03,,,,,open
 2026-09-21,YKBNK.IS,Yapı Kredi,Banka,İzle,65,36.58,35.82,-2.08,35.56,-2.79,35.9,-1.86,,,,,open
 2026-09-21,ISCTR.IS,İş Bankası C,Banka,İzle,70,13.56,13.19,-2.73,12.95,-4.5,12.87,-5.09,,,,,open
-2026-09-22,BIMAS.IS,Bim,Perakende,İzle,69,430.5,429.5,-0.23,419.5,-2.56,,,,,,,open
+2026-09-22,BIMAS.IS,Bim,Perakende,İzle,69,430.5,429.5,-0.23,419.5,-2.56,408.0,-5.23,,,,,open
 2026-09-23,BIMAS.IS,Bim,Perakende,İzle,69,433.0,426.25,-1.56,421.0,-2.77,,,,,,,open
 2026-09-24,BIMAS.IS,Bim,Perakende,İzle,69,423.75,426.25,0.59,411.25,-2.95,,,,,,,open
 2026-09-25,BIMAS.IS,Bim,Perakende,İzle,69,429.75,426.25,-0.81,414.75,-3.49,,,,,,,open
 2026-09-28,BIMAS.IS,Bim,Perakende,İzle,69,426.25,411.25,-3.52,413.5,-2.99,,,,,,,open
-2026-09-29,BIMAS.IS,Bim,Perakende,İzle,69,421.75,414.75,-1.66,,,,,,,,,open
+2026-09-29,BIMAS.IS,Bim,Perakende,İzle,69,421.75,414.75,-1.66,408.0,-3.26,,,,,,,open
 2026-09-30,BIMAS.IS,Bim,Perakende,İzle,69,421.0,413.5,-1.78,,,,,,,,,open
