@@ -595,7 +595,7 @@ date,symbol,name,sector,signal,score,entry_price,price_after_3d,return_after_3d,
 2026-09-21,YKBNK.IS,Yapı Kredi,Banka,İzle,65,36.58,35.82,-2.08,35.56,-2.79,35.9,-1.86,36.44,-0.38,2.3,-8.15,closed
 2026-09-21,ISCTR.IS,İş Bankası C,Banka,İzle,70,13.56,13.19,-2.73,12.95,-4.5,12.87,-5.09,13.0,-4.13,1.62,-10.18,closed
 2026-09-22,BIMAS.IS,Bim,Perakende,İzle,69,430.5,429.5,-0.23,419.5,-2.56,408.0,-5.23,378.25,-12.14,1.63,-13.82,closed
-2026-09-23,BIMAS.IS,Bim,Perakende,İzle,69,433.0,426.25,-1.56,421.0,-2.77,396.0,-8.55,,,,,open
+2026-09-23,BIMAS.IS,Bim,Perakende,İzle,69,433.0,426.25,-1.56,421.0,-2.77,396.0,-8.55,367.5,-15.13,0.64,-15.53,closed
 2026-09-24,BIMAS.IS,Bim,Perakende,İzle,69,423.75,426.25,0.59,411.25,-2.95,397.5,-6.19,,,,,open
 2026-09-25,BIMAS.IS,Bim,Perakende,İzle,69,429.75,426.25,-0.81,414.75,-3.49,402.25,-6.4,,,,,open
 2026-09-28,BIMAS.IS,Bim,Perakende,İzle,69,426.25,411.25,-3.52,413.5,-2.99,396.5,-6.98,,,,,open
@@ -604,10 +604,10 @@ date,symbol,name,sector,signal,score,entry_price,price_after_3d,return_after_3d,
 2026-10-13,BIMAS.IS,Bim,Perakende,İzle,69,411.25,382.5,-6.99,382.5,-6.99,,,,,,,open
 2026-10-14,KCHOL.IS,Koç Holding,Holding,İzle,69,213.2,205.4,-3.66,204.5,-4.08,,,,,,,open
 2026-10-15,GARAN.IS,Garanti BBVA,Banka,İzle,67,133.9,133.2,-0.52,130.0,-2.91,,,,,,,open
-2026-10-16,GARAN.IS,Garanti BBVA,Banka,İzle,67,131.2,133.2,1.52,,,,,,,,,open
+2026-10-16,GARAN.IS,Garanti BBVA,Banka,İzle,67,131.2,133.2,1.52,122.9,-6.33,,,,,,,open
 2026-10-19,GARAN.IS,Garanti BBVA,Banka,İzle,67,133.2,130.0,-2.4,,,,,,,,,open
 2026-10-19,YKBNK.IS,Yapı Kredi,Banka,İzle,75,36.1,35.9,-0.55,,,,,,,,,open
-2026-10-20,GARAN.IS,Garanti BBVA,Banka,İzle,69,132.1,,,,,,,,,,,open
-2026-10-20,YKBNK.IS,Yapı Kredi,Banka,Güçlü İzle,80,36.66,,,,,,,,,,,open
+2026-10-20,GARAN.IS,Garanti BBVA,Banka,İzle,69,132.1,122.9,-6.96,,,,,,,,,open
+2026-10-20,YKBNK.IS,Yapı Kredi,Banka,Güçlü İzle,80,36.66,33.62,-8.29,,,,,,,,,open
 2026-10-21,GARAN.IS,Garanti BBVA,Banka,İzle,69,133.4,,,,,,,,,,,open
 2026-10-21,YKBNK.IS,Yapı Kredi,Banka,İzle,69,36.44,,,,,,,,,,,open
