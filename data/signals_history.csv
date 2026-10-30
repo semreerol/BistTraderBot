@@ -600,11 +600,11 @@ date,symbol,name,sector,signal,score,entry_price,price_after_3d,return_after_3d,
 2026-09-25,BIMAS.IS,Bim,Perakende,İzle,69,429.75,426.25,-0.81,414.75,-3.49,402.25,-6.4,369.75,-13.96,0.0,-15.18,closed
 2026-09-28,BIMAS.IS,Bim,Perakende,İzle,69,426.25,411.25,-3.52,413.5,-2.99,396.5,-6.98,364.75,-14.43,0.82,-15.72,closed
 2026-09-29,BIMAS.IS,Bim,Perakende,İzle,69,421.75,414.75,-1.66,408.0,-3.26,410.5,-2.67,364.75,-13.52,1.42,-14.82,closed
-2026-09-30,BIMAS.IS,Bim,Perakende,İzle,69,421.0,413.5,-1.78,396.0,-5.94,409.25,-2.79,,,,,open
+2026-09-30,BIMAS.IS,Bim,Perakende,İzle,69,421.0,413.5,-1.78,396.0,-5.94,409.25,-2.79,355.25,-15.62,1.6,-15.86,closed
 2026-10-13,BIMAS.IS,Bim,Perakende,İzle,69,411.25,382.5,-6.99,382.5,-6.99,373.25,-9.24,,,,,open
 2026-10-14,KCHOL.IS,Koç Holding,Holding,İzle,69,213.2,205.4,-3.66,204.5,-4.08,199.8,-6.29,,,,,open
 2026-10-15,GARAN.IS,Garanti BBVA,Banka,İzle,67,133.9,133.2,-0.52,130.0,-2.91,126.7,-5.38,,,,,open
-2026-10-16,GARAN.IS,Garanti BBVA,Banka,İzle,67,131.2,133.2,1.52,122.9,-6.33,,,,,,,open
+2026-10-16,GARAN.IS,Garanti BBVA,Banka,İzle,67,131.2,133.2,1.52,122.9,-6.33,127.6,-2.74,,,,,open
 2026-10-19,GARAN.IS,Garanti BBVA,Banka,İzle,67,133.2,130.0,-2.4,126.2,-5.26,,,,,,,open
 2026-10-19,YKBNK.IS,Yapı Kredi,Banka,İzle,75,36.1,35.9,-0.55,35.34,-2.11,,,,,,,open
 2026-10-20,GARAN.IS,Garanti BBVA,Banka,İzle,69,132.1,122.9,-6.96,127.9,-3.18,,,,,,,open
