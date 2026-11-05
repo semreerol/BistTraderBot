@@ -613,3 +613,5 @@ date,symbol,name,sector,signal,score,entry_price,price_after_3d,return_after_3d,
 2026-10-21,YKBNK.IS,Yapı Kredi,Banka,İzle,69,36.44,35.34,-3.02,34.48,-5.38,35.98,-1.26,,,,,open
 2026-10-26,YKBNK.IS,Yapı Kredi,Banka,İzle,70,35.84,34.48,-3.79,35.64,-0.56,,,,,,,open
 2026-11-04,GARAN.IS,Garanti BBVA,Banka,İzle,67,137.9,,,,,,,,,,,open
+2026-11-05,THYAO.IS,Türk Hava Yolları,Ulaştırma,İzle,67,297.0,,,,,,,,,,,open
+2026-11-05,GARAN.IS,Garanti BBVA,Banka,İzle,70,141.5,,,,,,,,,,,open
