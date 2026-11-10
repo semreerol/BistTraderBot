@@ -625,3 +625,12 @@ date,symbol,name,sector,signal,score,entry_price,price_after_3d,return_after_3d,
 2026-11-09,YKBNK.IS,Yapı Kredi,Banka,Güçlü İzle,85,38.74,,,,,,,,,,,open
 2026-11-09,ISCTR.IS,İş Bankası C,Banka,İzle,77,13.7,,,,,,,,,,,open
 2026-11-09,PGSUS.IS,Pegasus,Ulaştırma,İzle,77,146.5,,,,,,,,,,,open
+2026-11-10,THYAO.IS,Türk Hava Yolları,Ulaştırma,İzle,77,313.75,,,,,,,,,,,open
+2026-11-10,KCHOL.IS,Koç Holding,Holding,İzle,72,206.0,,,,,,,,,,,open
+2026-11-10,SAHOL.IS,Sabancı Holding,Holding,İzle,66,87.3,,,,,,,,,,,open
+2026-11-10,FROTO.IS,Ford Otosan,Otomotiv,İzle,77,75.9,,,,,,,,,,,open
+2026-11-10,GARAN.IS,Garanti BBVA,Banka,İzle,73,155.4,,,,,,,,,,,open
+2026-11-10,AKBNK.IS,Akbank,Banka,İzle,66,70.7,,,,,,,,,,,open
+2026-11-10,YKBNK.IS,Yapı Kredi,Banka,İzle,79,38.48,,,,,,,,,,,open
+2026-11-10,ISCTR.IS,İş Bankası C,Banka,İzle,71,13.66,,,,,,,,,,,open
+2026-11-10,PGSUS.IS,Pegasus,Ulaştırma,İzle,70,154.4,,,,,,,,,,,open
