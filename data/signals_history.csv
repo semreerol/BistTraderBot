@@ -641,3 +641,5 @@ date,symbol,name,sector,signal,score,entry_price,price_after_3d,return_after_3d,
 2026-11-11,YKBNK.IS,Yapı Kredi,Banka,İzle,79,38.36,,,,,,,,,,,open
 2026-11-11,ISCTR.IS,İş Bankası C,Banka,İzle,74,13.6,,,,,,,,,,,open
 2026-11-11,PGSUS.IS,Pegasus,Ulaştırma,İzle,65,155.2,,,,,,,,,,,open
+2026-11-11,KCHOL.IS,Koç Holding,Holding,İzle,72,206.0,,,,,,,,,,,open
+2026-11-11,SAHOL.IS,Sabancı Holding,Holding,İzle,66,87.3,,,,,,,,,,,open
