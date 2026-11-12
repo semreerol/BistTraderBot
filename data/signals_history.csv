@@ -601,7 +601,7 @@ date,symbol,name,sector,signal,score,entry_price,price_after_3d,return_after_3d,
 2026-09-28,BIMAS.IS,Bim,Perakende,İzle,69,426.25,411.25,-3.52,413.5,-2.99,396.5,-6.98,364.75,-14.43,0.82,-15.72,closed
 2026-09-29,BIMAS.IS,Bim,Perakende,İzle,69,421.75,414.75,-1.66,408.0,-3.26,410.5,-2.67,364.75,-13.52,1.42,-14.82,closed
 2026-09-30,BIMAS.IS,Bim,Perakende,İzle,69,421.0,413.5,-1.78,396.0,-5.94,409.25,-2.79,355.25,-15.62,1.6,-15.86,closed
-2026-10-13,BIMAS.IS,Bim,Perakende,İzle,69,411.25,382.5,-6.99,382.5,-6.99,373.25,-9.24,,,,,open
+2026-10-13,BIMAS.IS,Bim,Perakende,İzle,69,411.25,382.5,-6.99,382.5,-6.99,373.25,-9.24,388.0,-5.65,0.79,-15.56,closed
 2026-10-14,KCHOL.IS,Koç Holding,Holding,İzle,69,213.2,205.4,-3.66,204.5,-4.08,199.8,-6.29,,,,,open
 2026-10-15,GARAN.IS,Garanti BBVA,Banka,İzle,67,133.9,133.2,-0.52,130.0,-2.91,126.7,-5.38,,,,,open
 2026-10-16,GARAN.IS,Garanti BBVA,Banka,İzle,67,131.2,133.2,1.52,122.9,-6.33,127.6,-2.74,,,,,open
@@ -613,18 +613,18 @@ date,symbol,name,sector,signal,score,entry_price,price_after_3d,return_after_3d,
 2026-10-21,YKBNK.IS,Yapı Kredi,Banka,İzle,69,36.44,35.34,-3.02,34.48,-5.38,35.98,-1.26,,,,,open
 2026-10-26,YKBNK.IS,Yapı Kredi,Banka,İzle,70,35.84,34.48,-3.79,35.64,-0.56,38.74,8.09,,,,,open
 2026-11-04,GARAN.IS,Garanti BBVA,Banka,İzle,67,137.9,153.1,11.02,154.3,11.89,,,,,,,open
-2026-11-05,THYAO.IS,Türk Hava Yolları,Ulaştırma,İzle,67,297.0,310.0,4.38,,,,,,,,,open
-2026-11-05,GARAN.IS,Garanti BBVA,Banka,İzle,70,141.5,153.1,8.2,,,,,,,,,open
+2026-11-05,THYAO.IS,Türk Hava Yolları,Ulaştırma,İzle,67,297.0,310.0,4.38,319.0,7.41,,,,,,,open
+2026-11-05,GARAN.IS,Garanti BBVA,Banka,İzle,70,141.5,153.1,8.2,152.6,7.84,,,,,,,open
 2026-11-06,GARAN.IS,Garanti BBVA,Banka,İzle,75,143.7,153.1,6.54,,,,,,,,,open
-2026-11-09,THYAO.IS,Türk Hava Yolları,Ulaştırma,İzle,77,310.0,,,,,,,,,,,open
-2026-11-09,KCHOL.IS,Koç Holding,Holding,İzle,72,212.4,,,,,,,,,,,open
-2026-11-09,SAHOL.IS,Sabancı Holding,Holding,İzle,77,88.4,,,,,,,,,,,open
-2026-11-09,FROTO.IS,Ford Otosan,Otomotiv,İzle,67,74.45,,,,,,,,,,,open
-2026-11-09,GARAN.IS,Garanti BBVA,Banka,İzle,78,153.1,,,,,,,,,,,open
-2026-11-09,AKBNK.IS,Akbank,Banka,İzle,72,70.95,,,,,,,,,,,open
-2026-11-09,YKBNK.IS,Yapı Kredi,Banka,Güçlü İzle,85,38.74,,,,,,,,,,,open
-2026-11-09,ISCTR.IS,İş Bankası C,Banka,İzle,77,13.7,,,,,,,,,,,open
-2026-11-09,PGSUS.IS,Pegasus,Ulaştırma,İzle,77,146.5,,,,,,,,,,,open
+2026-11-09,THYAO.IS,Türk Hava Yolları,Ulaştırma,İzle,77,310.0,319.0,2.9,,,,,,,,,open
+2026-11-09,KCHOL.IS,Koç Holding,Holding,İzle,72,212.4,208.2,-1.98,,,,,,,,,open
+2026-11-09,SAHOL.IS,Sabancı Holding,Holding,İzle,77,88.4,84.5,-4.41,,,,,,,,,open
+2026-11-09,FROTO.IS,Ford Otosan,Otomotiv,İzle,67,74.45,73.35,-1.48,,,,,,,,,open
+2026-11-09,GARAN.IS,Garanti BBVA,Banka,İzle,78,153.1,152.6,-0.33,,,,,,,,,open
+2026-11-09,AKBNK.IS,Akbank,Banka,İzle,72,70.95,70.1,-1.2,,,,,,,,,open
+2026-11-09,YKBNK.IS,Yapı Kredi,Banka,Güçlü İzle,85,38.74,37.9,-2.17,,,,,,,,,open
+2026-11-09,ISCTR.IS,İş Bankası C,Banka,İzle,77,13.7,13.63,-0.51,,,,,,,,,open
+2026-11-09,PGSUS.IS,Pegasus,Ulaştırma,İzle,77,146.5,158.2,7.99,,,,,,,,,open
 2026-11-10,THYAO.IS,Türk Hava Yolları,Ulaştırma,İzle,77,313.75,,,,,,,,,,,open
 2026-11-10,KCHOL.IS,Koç Holding,Holding,İzle,72,206.0,,,,,,,,,,,open
 2026-11-10,SAHOL.IS,Sabancı Holding,Holding,İzle,66,87.3,,,,,,,,,,,open
@@ -643,3 +643,10 @@ date,symbol,name,sector,signal,score,entry_price,price_after_3d,return_after_3d,
 2026-11-11,PGSUS.IS,Pegasus,Ulaştırma,İzle,65,155.2,,,,,,,,,,,open
 2026-11-11,KCHOL.IS,Koç Holding,Holding,İzle,72,206.0,,,,,,,,,,,open
 2026-11-11,SAHOL.IS,Sabancı Holding,Holding,İzle,66,87.3,,,,,,,,,,,open
+2026-11-12,THYAO.IS,Türk Hava Yolları,Ulaştırma,İzle,73,319.0,,,,,,,,,,,open
+2026-11-12,KCHOL.IS,Koç Holding,Holding,İzle,72,208.2,,,,,,,,,,,open
+2026-11-12,GARAN.IS,Garanti BBVA,Banka,İzle,73,152.6,,,,,,,,,,,open
+2026-11-12,AKBNK.IS,Akbank,Banka,İzle,66,70.1,,,,,,,,,,,open
+2026-11-12,YKBNK.IS,Yapı Kredi,Banka,İzle,74,37.9,,,,,,,,,,,open
+2026-11-12,ISCTR.IS,İş Bankası C,Banka,İzle,74,13.63,,,,,,,,,,,open
+2026-11-12,PGSUS.IS,Pegasus,Ulaştırma,İzle,70,158.2,,,,,,,,,,,open
