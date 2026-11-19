@@ -607,14 +607,14 @@ date,symbol,name,sector,signal,score,entry_price,price_after_3d,return_after_3d,
 2026-10-16,GARAN.IS,Garanti BBVA,Banka,İzle,67,131.2,133.2,1.52,122.9,-6.33,127.6,-2.74,150.1,14.41,19.82,-7.93,closed
 2026-10-19,GARAN.IS,Garanti BBVA,Banka,İzle,67,133.2,130.0,-2.4,126.2,-5.26,129.3,-2.93,145.7,9.38,18.02,-9.31,closed
 2026-10-19,YKBNK.IS,Yapı Kredi,Banka,İzle,75,36.1,35.9,-0.55,35.34,-2.11,35.64,-1.27,36.52,1.16,8.37,-7.98,closed
-2026-10-20,GARAN.IS,Garanti BBVA,Banka,İzle,69,132.1,122.9,-6.96,127.9,-3.18,128.4,-2.8,,,,,open
-2026-10-20,YKBNK.IS,Yapı Kredi,Banka,Güçlü İzle,80,36.66,33.62,-8.29,35.64,-2.78,34.58,-5.67,,,,,open
+2026-10-20,GARAN.IS,Garanti BBVA,Banka,İzle,69,132.1,122.9,-6.96,127.9,-3.18,128.4,-2.8,146.4,10.83,19.0,-8.55,closed
+2026-10-20,YKBNK.IS,Yapı Kredi,Banka,Güçlü İzle,80,36.66,33.62,-8.29,35.64,-2.78,34.58,-5.67,36.76,0.27,6.71,-9.38,closed
 2026-10-21,GARAN.IS,Garanti BBVA,Banka,İzle,69,133.4,126.2,-5.4,126.7,-5.02,137.8,3.3,,,,,open
 2026-10-21,YKBNK.IS,Yapı Kredi,Banka,İzle,69,36.44,35.34,-3.02,34.48,-5.38,35.98,-1.26,,,,,open
 2026-10-26,YKBNK.IS,Yapı Kredi,Banka,İzle,70,35.84,34.48,-3.79,35.64,-0.56,38.74,8.09,,,,,open
 2026-11-04,GARAN.IS,Garanti BBVA,Banka,İzle,67,137.9,153.1,11.02,154.3,11.89,145.7,5.66,,,,,open
-2026-11-05,THYAO.IS,Türk Hava Yolları,Ulaştırma,İzle,67,297.0,310.0,4.38,319.0,7.41,,,,,,,open
-2026-11-05,GARAN.IS,Garanti BBVA,Banka,İzle,70,141.5,153.1,8.2,152.6,7.84,,,,,,,open
+2026-11-05,THYAO.IS,Türk Hava Yolları,Ulaştırma,İzle,67,297.0,310.0,4.38,319.0,7.41,328.25,10.52,,,,,open
+2026-11-05,GARAN.IS,Garanti BBVA,Banka,İzle,70,141.5,153.1,8.2,152.6,7.84,146.4,3.46,,,,,open
 2026-11-06,GARAN.IS,Garanti BBVA,Banka,İzle,75,143.7,153.1,6.54,150.2,4.52,,,,,,,open
 2026-11-09,THYAO.IS,Türk Hava Yolları,Ulaştırma,İzle,77,310.0,319.0,2.9,323.5,4.35,,,,,,,open
 2026-11-09,KCHOL.IS,Koç Holding,Holding,İzle,72,212.4,208.2,-1.98,205.5,-3.25,,,,,,,open
@@ -643,14 +643,14 @@ date,symbol,name,sector,signal,score,entry_price,price_after_3d,return_after_3d,
 2026-11-11,PGSUS.IS,Pegasus,Ulaştırma,İzle,65,155.2,157.5,1.48,155.0,-0.13,,,,,,,open
 2026-11-11,KCHOL.IS,Koç Holding,Holding,İzle,72,206.0,205.5,-0.24,195.4,-5.15,,,,,,,open
 2026-11-11,SAHOL.IS,Sabancı Holding,Holding,İzle,66,87.3,84.7,-2.98,80.6,-7.67,,,,,,,open
-2026-11-12,THYAO.IS,Türk Hava Yolları,Ulaştırma,İzle,73,319.0,323.5,1.41,,,,,,,,,open
-2026-11-12,KCHOL.IS,Koç Holding,Holding,İzle,72,208.2,205.5,-1.3,,,,,,,,,open
-2026-11-12,GARAN.IS,Garanti BBVA,Banka,İzle,73,152.6,150.1,-1.64,,,,,,,,,open
-2026-11-12,AKBNK.IS,Akbank,Banka,İzle,66,70.1,69.9,-0.29,,,,,,,,,open
-2026-11-12,YKBNK.IS,Yapı Kredi,Banka,İzle,74,37.9,37.48,-1.11,,,,,,,,,open
-2026-11-12,ISCTR.IS,İş Bankası C,Banka,İzle,74,13.63,13.34,-2.13,,,,,,,,,open
-2026-11-12,PGSUS.IS,Pegasus,Ulaştırma,İzle,70,158.2,157.5,-0.44,,,,,,,,,open
-2026-11-12,FROTO.IS,Ford Otosan,Otomotiv,İzle,66,73.35,73.0,-0.48,,,,,,,,,open
+2026-11-12,THYAO.IS,Türk Hava Yolları,Ulaştırma,İzle,73,319.0,323.5,1.41,328.25,2.9,,,,,,,open
+2026-11-12,KCHOL.IS,Koç Holding,Holding,İzle,72,208.2,205.5,-1.3,193.7,-6.96,,,,,,,open
+2026-11-12,GARAN.IS,Garanti BBVA,Banka,İzle,73,152.6,150.1,-1.64,146.4,-4.06,,,,,,,open
+2026-11-12,AKBNK.IS,Akbank,Banka,İzle,66,70.1,69.9,-0.29,66.85,-4.64,,,,,,,open
+2026-11-12,YKBNK.IS,Yapı Kredi,Banka,İzle,74,37.9,37.48,-1.11,36.76,-3.01,,,,,,,open
+2026-11-12,ISCTR.IS,İş Bankası C,Banka,İzle,74,13.63,13.34,-2.13,12.74,-6.53,,,,,,,open
+2026-11-12,PGSUS.IS,Pegasus,Ulaştırma,İzle,70,158.2,157.5,-0.44,156.6,-1.01,,,,,,,open
+2026-11-12,FROTO.IS,Ford Otosan,Otomotiv,İzle,66,73.35,73.0,-0.48,71.7,-2.25,,,,,,,open
 2026-11-13,THYAO.IS,Türk Hava Yolları,Ulaştırma,İzle,67,320.0,323.5,1.09,,,,,,,,,open
 2026-11-13,BIMAS.IS,Bim,Perakende,İzle,66,395.25,394.5,-0.19,,,,,,,,,open
 2026-11-13,KCHOL.IS,Koç Holding,Holding,İzle,67,207.4,205.5,-0.92,,,,,,,,,open
@@ -661,16 +661,16 @@ date,symbol,name,sector,signal,score,entry_price,price_after_3d,return_after_3d,
 2026-11-13,PGSUS.IS,Pegasus,Ulaştırma,İzle,71,155.3,157.5,1.42,,,,,,,,,open
 2026-11-13,TOASO.IS,Tofaş,Otomotiv,İzle,67,242.8,246.0,1.32,,,,,,,,,open
 2026-11-13,AKBNK.IS,Akbank,Banka,İzle,66,70.1,69.9,-0.29,,,,,,,,,open
-2026-11-16,THYAO.IS,Türk Hava Yolları,Ulaştırma,İzle,67,323.5,,,,,,,,,,,open
-2026-11-16,ASELS.IS,Aselsan,Savunma,İzle,67,353.0,,,,,,,,,,,open
-2026-11-16,GARAN.IS,Garanti BBVA,Banka,İzle,79,150.1,,,,,,,,,,,open
-2026-11-16,YKBNK.IS,Yapı Kredi,Banka,İzle,69,37.48,,,,,,,,,,,open
-2026-11-16,ISCTR.IS,İş Bankası C,Banka,İzle,69,13.34,,,,,,,,,,,open
-2026-11-16,PGSUS.IS,Pegasus,Ulaştırma,Güçlü İzle,85,157.5,,,,,,,,,,,open
-2026-11-16,BIMAS.IS,Bim,Perakende,İzle,66,395.5,,,,,,,,,,,open
-2026-11-16,KCHOL.IS,Koç Holding,Holding,İzle,67,207.5,,,,,,,,,,,open
-2026-11-16,FROTO.IS,Ford Otosan,Otomotiv,İzle,72,73.75,,,,,,,,,,,open
-2026-11-16,TOASO.IS,Tofaş,Otomotiv,İzle,67,243.0,,,,,,,,,,,open
+2026-11-16,THYAO.IS,Türk Hava Yolları,Ulaştırma,İzle,67,323.5,328.25,1.47,,,,,,,,,open
+2026-11-16,ASELS.IS,Aselsan,Savunma,İzle,67,353.0,337.0,-4.53,,,,,,,,,open
+2026-11-16,GARAN.IS,Garanti BBVA,Banka,İzle,79,150.1,146.4,-2.47,,,,,,,,,open
+2026-11-16,YKBNK.IS,Yapı Kredi,Banka,İzle,69,37.48,36.76,-1.92,,,,,,,,,open
+2026-11-16,ISCTR.IS,İş Bankası C,Banka,İzle,69,13.34,12.74,-4.5,,,,,,,,,open
+2026-11-16,PGSUS.IS,Pegasus,Ulaştırma,Güçlü İzle,85,157.5,156.6,-0.57,,,,,,,,,open
+2026-11-16,BIMAS.IS,Bim,Perakende,İzle,66,395.5,384.0,-2.91,,,,,,,,,open
+2026-11-16,KCHOL.IS,Koç Holding,Holding,İzle,67,207.5,193.7,-6.65,,,,,,,,,open
+2026-11-16,FROTO.IS,Ford Otosan,Otomotiv,İzle,72,73.75,71.7,-2.78,,,,,,,,,open
+2026-11-16,TOASO.IS,Tofaş,Otomotiv,İzle,67,243.0,249.3,2.59,,,,,,,,,open
 2026-11-17,THYAO.IS,Türk Hava Yolları,Ulaştırma,İzle,67,322.25,,,,,,,,,,,open
 2026-11-17,BIMAS.IS,Bim,Perakende,İzle,66,393.25,,,,,,,,,,,open
 2026-11-17,GARAN.IS,Garanti BBVA,Banka,İzle,79,148.7,,,,,,,,,,,open
